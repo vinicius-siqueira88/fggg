@@ -1,0 +1,268 @@
+/*======================================
+  Home
+======================================*/
+
+.columns-home {
+  border-top: 1px solid #D2D2D2;
+  .grid {
+    @include columns( $quant: 63.25% 36.75%, $gutter: 0, $align: stretch, $template: 'list-post sidebar');
+    .list-post-home {
+      grid-area: list-post;
+      border-right: 1px solid #D2D2D2;
+      padding: 59px 50px 0 0;
+      h2 {
+        font-family: $font-alt;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 140%;
+        text-transform: uppercase;
+        color: #131313;
+        display: flex;
+        align-items: center;
+        .icon {
+          width: 16px;
+          height: 32px;
+          margin: 2px 12px -2px 2px;
+        }
+      }
+      .list-post {
+        padding: 47px 0 0 2px;
+      }
+      .banner {
+        padding: 64px 0 16px 0;
+      }
+      .center {
+        text-align: center;
+        padding: 133px 0 116px 0;
+      }
+      .btn {
+        font-family: $font-alt;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 140%;
+        color: #FEFDFF;
+        background: $color-purple;
+        border-radius: 4px;
+        display: inline-flex;
+        padding: 12px 32px;
+        .icon {
+          width: 24px;
+          height: 24px;
+          margin: 0 0 0 10px;
+          stroke: $color-white;
+        }
+        @include animate($time: 0.3s);
+        &:hover {
+          box-shadow: 0 0 #0000, 0 0 #0000, inset 0 -3px 0 0 rgba($color-yellow, 1);
+        }
+      }
+    }
+    .sidebar-home {
+      grid-area: sidebar;
+      padding: 54px 0 0 54px;
+      h3 {
+        font-family: $font-alt;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 140%;
+        text-transform: uppercase;
+        color: #131313;
+        display: flex;
+        align-items: center;
+        .icon {
+          width: 16px;
+          height: 32px;
+          margin: 2px 12px -2px 2px;
+        }
+      }
+      .list-reviews {
+        padding: 34px 0 0 3px;
+      }
+      .div {
+        margin: 3px 0 54px 0;
+      }
+      .banner {
+        padding: 36px 0 16px 0;
+      }
+    }
+  }
+}
+
+@include breakpoint2($min:sm, $max:lg) {
+  .columns-home {
+    .grid {
+      @include columns( $quant: 63.25% 36.75%, $gutter: 0, $align: stretch, $template: 'list-post sidebar');
+      .list-post-home {
+        padding: get-vw-lg(59px) get-vw-lg(50px) 0 0;
+        h2 {
+          font-size: get-vw-lg(24px);
+          .icon {
+            width: get-vw-lg(16px);
+            height: get-vw-lg(32px);
+            margin: get-vw-lg(2px) get-vw-lg(12px) get-vw-lg(-2px) get-vw-lg(2px);
+          }
+        }
+        .list-post {
+          padding: get-vw-lg(47px) 0 0 get-vw-lg(2px);
+        }
+        .banner {
+          padding: get-vw-lg(64px) 0 get-vw-lg(16px) 0;
+        }
+        .center {
+          padding: get-vw-lg(133px) 0 get-vw-lg(116px) 0;
+        }
+        .btn {
+          font-size: get-vw-lg(16px);
+          border-radius: get-vw-lg(4px);
+          padding: get-vw-lg(12px) get-vw-lg(32px);
+          .icon {
+            width: get-vw-lg(24px);
+            height: get-vw-lg(24px);
+            margin: 0 0 0 get-vw-lg(10px);
+          }
+        }
+      }
+      .sidebar-home {
+        padding: get-vw-lg(54px) 0 0 get-vw-lg(54px);
+        h3 {
+          font-size: get-vw-lg(24px);
+          .icon {
+            width: get-vw-lg(16px);
+            height: get-vw-lg(32px);
+            margin: get-vw-lg(2px) get-vw-lg(12px) get-vw-lg(-2px) get-vw-lg(2px);
+          }
+        }
+        .list-reviews {
+          padding: get-vw-lg(34px) 0 0 get-vw-lg(3px);
+        }
+        .div {
+          margin: get-vw-lg(3px) 0 get-vw-lg(54px) 0;
+        }
+        .banner {
+          padding: get-vw-lg(36px) 0 get-vw-lg(16px) 0;
+        }
+      }
+    }
+  }
+}
+
+@include breakpoint2($min:xs, $max:sm) {
+  .columns-home {
+    .grid {
+      @include columns( $quant: 100%, $gutter: 0, $align: stretch, $template: 'list-post' 'sidebar');
+      .list-post-home {
+        padding: get-vw-sm(59px) get-vw-sm(50px) 0 0;
+        border: none;
+        h2 {
+          font-size: get-vw-sm(24px);
+          .icon {
+            width: get-vw-sm(16px);
+            height: get-vw-sm(32px);
+            margin: get-vw-sm(2px) get-vw-sm(12px) get-vw-sm(-2px) get-vw-sm(2px);
+          }
+        }
+        .list-post {
+          padding: get-vw-sm(47px) 0 0 get-vw-sm(2px);
+        }
+        .banner {
+          padding: get-vw-sm(64px) 0 get-vw-sm(16px) 0;
+        }
+        .center {
+          padding: get-vw-sm(133px) 0 get-vw-sm(116px) 0;
+        }
+        .btn {
+          font-size: get-vw-sm(16px);
+          border-radius: get-vw-sm(4px);
+          padding: get-vw-sm(12px) get-vw-sm(32px);
+          .icon {
+            width: get-vw-sm(24px);
+            height: get-vw-sm(24px);
+            margin: 0 0 0 get-vw-sm(10px);
+          }
+        }
+      }
+      .sidebar-home {
+        padding: get-vw-sm(54px) get-vw-sm(120px);
+        h3 {
+          font-size: get-vw-sm(24px);
+          .icon {
+            width: get-vw-sm(16px);
+            height: get-vw-sm(32px);
+            margin: get-vw-sm(2px) get-vw-sm(12px) get-vw-sm(-2px) get-vw-sm(2px);
+          }
+        }
+        .list-reviews {
+          padding: get-vw-sm(34px) 0 0 get-vw-sm(3px);
+        }
+        .div {
+          margin: get-vw-sm(3px) 0 get-vw-sm(54px) 0;
+        }
+        .banner {
+          padding: get-vw-sm(36px) 0 get-vw-sm(16px) 0;
+        }
+      }
+    }
+  }
+}
+
+@include breakpoint2($min:'', $max:xs) {
+  .columns-home {
+    .grid {
+      @include columns( $quant: 100%, $gutter: 0, $align: stretch, $template: 'list-post' 'sidebar');
+      .list-post-home {
+        padding: get-vw-xs(59px) 0 0 0;
+        border: none;
+        h2 {
+          font-size: get-vw-xs(24px);
+          .icon {
+            width: get-vw-xs(16px);
+            height: get-vw-xs(32px);
+            margin: get-vw-xs(2px) get-vw-xs(12px) get-vw-xs(-2px) get-vw-xs(2px);
+          }
+        }
+        .list-post {
+          padding: get-vw-xs(47px) 0 0 get-vw-xs(2px);
+        }
+        .banner {
+          padding: get-vw-xs(64px) 0 get-vw-xs(16px) 0;
+        }
+        .center {
+          padding: get-vw-xs(133px) 0 get-vw-xs(116px) 0;
+        }
+        .btn {
+          font-size: get-vw-xs(16px);
+          border-radius: get-vw-xs(4px);
+          padding: get-vw-xs(12px) get-vw-xs(32px);
+          .icon {
+            width: get-vw-xs(24px);
+            height: get-vw-xs(24px);
+            margin: 0 0 0 get-vw-xs(10px);
+          }
+        }
+      }
+      .sidebar-home {
+        padding: get-vw-xs(54px) 0;
+        h3 {
+          font-size: get-vw-xs(24px);
+          .icon {
+            width: get-vw-xs(16px);
+            height: get-vw-xs(32px);
+            margin: get-vw-xs(2px) get-vw-xs(12px) get-vw-xs(-2px) get-vw-xs(2px);
+          }
+        }
+        .list-reviews {
+          padding: get-vw-xs(34px) 0 0 get-vw-xs(3px);
+        }
+        .div {
+          margin: get-vw-xs(3px) 0 get-vw-xs(54px) 0;
+        }
+        .banner {
+          padding: get-vw-xs(36px) 0 get-vw-xs(16px) 0;
+        }
+      }
+    }
+  }
+}

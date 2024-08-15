@@ -1,0 +1,44 @@
+/*======================================
+  Fonts
+======================================*/
+
+
+/*@font-face {
+  font-family: 'fonte name';
+  src: url('../fonts/fonte-name.eot');
+  src: url('../fonts/fonte-name.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/fonte-name.woff') format('woff'),
+       url('../fonts/fonte-name.ttf') format('truetype'),
+       url('../fonts/fonte-name.svg#fonte-name') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}*/
+
+@font-face {
+  font-family: 'Industry';
+  src: local('Industry Bold'), local('Industry-Bold'), url('../fonts/Industry-Bold.woff2') format('woff2'), url('../fonts/Industry-Bold.woff') format('woff'), url('../fonts/Industry-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=DM+Serif+Display:ital@0;1&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body {
+  font-family: $font-main;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $font-alt;
+  font-weight: normal;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}

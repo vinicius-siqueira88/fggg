@@ -1,0 +1,15 @@
+#wp-link-wrap #link-selector {
+  overflow: auto;
+}
+
+div#wp-link-wrap #wp-link .query-results {
+  min-height: 200px;
+}
+
+@media screen and (min-height: 521px) {
+  #wp-link-wrap {
+    height: 80% !important;
+    margin-top: 0 !important;
+    transform: translate(0px, -50%) !important;
+  }
+}

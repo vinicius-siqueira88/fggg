@@ -1,0 +1,418 @@
+/*======================================
+  Videos
+======================================*/
+
+.videos {
+  padding: 59px 0 0 0;
+  background: url(../img/pattern-video.jpg) top left repeat;
+  h4 {
+    font-family: $font-alt;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 140%;
+    text-transform: uppercase;
+    color: $color-white;
+    display: flex;
+    align-items: center;
+    padding: 0 0 24px 0;
+    .icon {
+      width: 16px;
+      height: 32px;
+      margin: 2px 12px -2px 2px;
+      fill: $color-white;
+    }
+  }
+  .grid {
+    @include columns( $quant: 743px 1fr, $gutter: 0, $align: stretch, $template: 'video-featured video-list');
+    column-gap: 39px;
+    padding: 0 0 24px 0;
+    .box-featured {
+      .video-featured {
+        @include columns( $quant: 1fr 1fr, $gutter: 29px, $align: stretch, $template: '');
+        padding: 0 0 19px 0;
+        border-bottom: 1px solid rgba($color-white, 0.5);
+        .item {
+          .box {
+            .thumb {
+              clip-path: url(#svgMask2);
+              position: relative;
+              img {
+                width: 100%;
+                height: auto;
+              }
+              .tag {
+                font-family: $font-alt;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 12px;
+                line-height: 140%;
+                text-transform: uppercase;
+                color: $color-yellow;
+                background: #131313;
+                border-radius: 4px;
+                padding: 8px;
+                position: absolute;
+                top: 9px;
+                left: 20px;
+                &:hover {
+                  border-bottom: 1px solid $color-yellow;
+                }
+              }
+            }
+            .content {
+              @include columns( $quant: 35px 1fr, $gutter: 13px, $align: center, $template: '');
+              padding: 18px 0 0 6px;
+              .icon {
+                width: 35px;
+                height: 35px;
+                margin: -4px 0 0 0;
+                img {
+                  width: 100%;
+                  height: auto;
+                }
+              }
+              h5 {
+                font-family: $font-alt;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 18px;
+                line-height: 120%;
+                color: $color-white;
+                display: inline;
+                @include animate($time: 0.3s);
+                box-shadow: 0 0 #0000, 0 0 #0000, inset 0 0em 0 0 rgba($color-yellow, 0.5);
+              }
+            }
+            @include animate($time: 0.3s);
+            &:hover {
+              a {
+                h5 {
+                  box-shadow: 0 0 #0000, 0 0 #0000, inset 0 -.5em 0 0 rgba($color-yellow, 0.5);
+                }
+              }
+            }
+          }
+        }
+      }
+      .link-youtube {
+        font-family: $font-alt;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 140%;
+        color: #FFF9F9;
+        margin: 20px 0 0 5px;
+        display: inline-flex;
+        align-items: center;
+        column-gap: 13px;
+        .icon {
+          width: 24px;
+          height: 24px;
+          stroke: $color-white;
+        }
+        span {
+          @include animate($time: 0.3s);
+          box-shadow: 0 0 #0000, 0 0 #0000, inset 0 0em 0 0 rgba($color-yellow, 0.5);
+        }
+        &:hover {
+          span {
+            box-shadow: 0 0 #0000, 0 0 #0000, inset 0 -.5em 0 0 rgba($color-yellow, 0.5);
+          }
+        }
+      }
+    }
+    .video-list {
+      .list-video {
+        li {
+          padding: 0 0 23px 0;
+          .grid {
+            @include columns( $quant: 49.4% 50.6%, $gutter: 0, $align: start, $template: '');
+            padding: 0;
+            .thumb {
+              clip-path: url(#svgMask2);
+              img {
+                width: 100%;
+                height: auto;
+              }
+            }
+            .content {
+              padding: 0px 0 0 15px;
+              .tag {
+                font-family: $font-alt;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 12px;
+                line-height: 140%;
+                text-transform: uppercase;
+                color: $color-yellow;
+                &:hover {
+                  border-bottom: 1px solid $color-yellow;
+                }
+              }
+              h5 {
+                font-family: $font-alt;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 18px;
+                line-height: 140%;
+                color: $color-white;
+                a {
+                  @include animate($time: 0.3s);
+                  box-shadow: 0 0 #0000, 0 0 #0000, inset 0 0em 0 0 rgba($color-yellow, 0.5);
+                }
+              }
+            }
+            @include animate($time: 0.3s);
+            &:hover {
+              h5 {
+                a {
+                  box-shadow: 0 0 #0000, 0 0 #0000, inset 0 -.5em 0 0 rgba($color-yellow, 0.5);
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@include breakpoint2($min:sm, $max:lg) {
+  .videos {
+    padding: get-vw-lg(59px) 0 0 0;
+    h4 {
+      font-size: get-vw-lg(24px);
+      padding: 0 0 get-vw-lg(24px) 0;
+      .icon {
+        width: get-vw-lg(16px);
+        height: get-vw-lg(32px);
+        margin: get-vw-lg(2px) get-vw-lg(12px) get-vw-lg(-2px) get-vw-lg(2px);
+      }
+    }
+    .grid {
+      @include columns( $quant: get-vw-lg(743px) 1fr, $gutter: 0, $align: stretch, $template: 'video-featured video-list');
+      column-gap: get-vw-lg(39px);
+      padding: 0 0 get-vw-lg(24px) 0;
+      .box-featured {
+        .video-featured {
+          @include columns( $quant: 1fr 1fr, $gutter: get-vw-lg(29px), $align: stretch, $template: '');
+          padding: 0 0 get-vw-lg(19px) 0;
+          .item {
+            .box {
+              .thumb {
+                .tag {
+                  font-size: get-vw-lg(12px);
+                  border-radius: get-vw-lg(4px);
+                  padding: get-vw-lg(8px);
+                  top: get-vw-lg(9px);
+                  left: get-vw-lg(20px);
+                }
+              }
+              .content {
+                padding: get-vw-lg(18px) 0 0 get-vw-lg(6px);
+                @include columns( $quant: get-vw-lg(35px) 1fr, $gutter: get-vw-lg(13px), $align: center, $template: '');
+                .icon {
+                  width: get-vw-lg(35px);
+                  height: get-vw-lg(35px);
+                  margin: get-vw-lg(-4px) 0 0 0;
+                }
+                h5 {
+                  font-size: get-vw-lg(18px);
+                }
+              }
+            }
+          }
+        }
+        .link-youtube {
+          font-size: get-vw-lg(20px);
+          margin: get-vw-lg(20px) 0 0 get-vw-lg(5px);
+          column-gap: get-vw-lg(13px);
+          .icon {
+            width: get-vw-lg(24px);
+            height: get-vw-lg(24px);
+          }
+        }
+      }
+      .video-list {
+        .list-video {
+          li {
+            padding: 0 0 get-vw-lg(23px) 0;
+            .grid {
+              @include columns( $quant: 49.4% 50.6%, $gutter: 0, $align: start, $template: '');
+              .content {
+                padding: 0 0 0 get-vw-lg(15px);
+                .tag {
+                  font-size: get-vw-lg(12px);
+                }
+                h5 {
+                  font-size: get-vw-lg(18px);
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@include breakpoint2($min:xs, $max:sm) {
+  .videos {
+    padding: get-vw-sm(59px) 0 0 0;
+    h4 {
+      font-size: get-vw-sm(24px);
+      padding: 0 0 get-vw-sm(24px) 0;
+      .icon {
+        width: get-vw-sm(16px);
+        height: get-vw-sm(32px);
+        margin: get-vw-sm(2px) get-vw-sm(12px) get-vw-sm(-2px) get-vw-sm(2px);
+      }
+    }
+    .grid {
+      @include columns( $quant: 1fr, $gutter: 0, $align: stretch, $template: 'video-featured');
+      column-gap: get-vw-sm(39px);
+      padding: 0 0 get-vw-sm(54px) 0;
+      .box-featured {
+        .video-featured {
+          @include columns( $quant: 1fr 1fr, $gutter: get-vw-sm(29px), $align: stretch, $template: '');
+          padding: 0 0 get-vw-sm(19px) 0;
+          .item {
+            .box {
+              .thumb {
+                .tag {
+                  font-size: get-vw-sm(12px);
+                  border-radius: get-vw-sm(4px);
+                  padding: get-vw-sm(8px);
+                  top: get-vw-sm(9px);
+                  left: get-vw-sm(20px);
+                }
+              }
+              .content {
+                padding: get-vw-sm(18px) 0 0 get-vw-sm(6px);
+                @include columns( $quant: get-vw-sm(35px) 1fr, $gutter: get-vw-sm(13px), $align: center, $template: '');
+                .icon {
+                  width: get-vw-sm(35px);
+                  height: get-vw-sm(35px);
+                  margin: get-vw-sm(-4px) 0 0 0;
+                }
+                h5 {
+                  font-size: get-vw-sm(18px);
+                }
+              }
+            }
+          }
+        }
+        .link-youtube {
+          font-size: get-vw-sm(20px);
+          margin: get-vw-sm(20px) 0 0 get-vw-sm(5px);
+          column-gap: get-vw-sm(13px);
+          .icon {
+            width: get-vw-sm(24px);
+            height: get-vw-sm(24px);
+          }
+        }
+      }
+      .video-list {
+        display: none;
+        .list-video {
+          li {
+            padding: 0 0 get-vw-sm(23px) 0;
+            .grid {
+              @include columns( $quant: 49.4% 50.6%, $gutter: 0, $align: start, $template: '');
+              .content {
+                padding: 0 0 0 get-vw-sm(15px);
+                .tag {
+                  font-size: get-vw-sm(12px);
+                }
+                h5 {
+                  font-size: get-vw-sm(18px);
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@include breakpoint2($min:'', $max:xs) {
+  .videos {
+    padding: get-vw-xs(59px) 0 0 0;
+    h4 {
+      font-size: get-vw-xs(24px);
+      padding: 0 0 get-vw-xs(24px) 0;
+      .icon {
+        width: get-vw-xs(16px);
+        height: get-vw-xs(32px);
+        margin: get-vw-xs(2px) get-vw-xs(12px) get-vw-xs(-2px) get-vw-xs(2px);
+      }
+    }
+    .grid {
+      @include columns( $quant: 1fr, $gutter: 0, $align: stretch, $template: 'video-featured');
+      column-gap: get-vw-xs(39px);
+      padding: 0 0 get-vw-xs(54px) 0;
+      .box-featured {
+        .video-featured {
+          @include columns( $quant: 1fr, $gutter: get-vw-xs(29px), $align: stretch, $template: '');
+          padding: 0 0 get-vw-xs(19px) 0;
+          .item {
+            .box {
+              .thumb {
+                .tag {
+                  font-size: get-vw-xs(12px);
+                  border-radius: get-vw-xs(4px);
+                  padding: get-vw-xs(8px);
+                  top: get-vw-xs(9px);
+                  left: get-vw-xs(20px);
+                }
+              }
+              .content {
+                padding: get-vw-xs(18px) 0 0 get-vw-xs(6px);
+                @include columns( $quant: get-vw-xs(35px) 1fr, $gutter: get-vw-xs(13px), $align: center, $template: '');
+                .icon {
+                  width: get-vw-xs(35px);
+                  height: get-vw-xs(35px);
+                  margin: get-vw-xs(-4px) 0 0 0;
+                }
+                h5 {
+                  font-size: get-vw-xs(18px);
+                }
+              }
+            }
+          }
+        }
+        .link-youtube {
+          font-size: get-vw-xs(20px);
+          margin: get-vw-xs(20px) 0 0 get-vw-xs(5px);
+          column-gap: get-vw-xs(13px);
+          .icon {
+            width: get-vw-xs(24px);
+            height: get-vw-xs(24px);
+          }
+        }
+      }
+      .video-list {
+        display: none;
+        .list-video {
+          li {
+            padding: 0 0 get-vw-xs(23px) 0;
+            .grid {
+              @include columns( $quant: 49.4% 50.6%, $gutter: 0, $align: start, $template: '');
+              .content {
+                padding: 0 0 0 get-vw-xs(15px);
+                .tag {
+                  font-size: get-vw-xs(12px);
+                }
+                h5 {
+                  font-size: get-vw-xs(18px);
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

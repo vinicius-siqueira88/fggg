@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Flow Games</title>
+	<atom:link href="https://flowgames.gg/feed/" rel="self" type="application/rss+xml" />
+	<link>https://flowgames.gg</link>
+	<description></description>
+	<lastBuildDate>Thu, 23 May 2024 19:11:10 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://flowgames.gg/wp-content/uploads/2022/10/flow-games-96x96.png</url>
+	<title>Flow Games</title>
+	<link>https://flowgames.gg</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Port de Majora&#8217;s Mask não oficial para PC é de tirar o fôlego</title>
+		<link>https://flowgames.gg/port-de-majoras-mask-nao-oficial-pc-tirar-o-folego/</link>
+					<comments>https://flowgames.gg/port-de-majoras-mask-nao-oficial-pc-tirar-o-folego/#respond</comments>
+		
+		<dc:creator><![CDATA[Alvaro Neto]]></dc:creator>
+		<pubDate>Thu, 23 May 2024 20:00:14 +0000</pubDate>
+				<category><![CDATA[Games]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[jogo]]></category>
+		<category><![CDATA[jogos]]></category>
+		<category><![CDATA[Nintendo]]></category>
+		<category><![CDATA[ocarina of time]]></category>
+		<category><![CDATA[port]]></category>
+		<category><![CDATA[port não oficial]]></category>
+		<category><![CDATA[the legend of zelda majora's mask]]></category>
+		<category><![CDATA[Zelda]]></category>
+		<guid isPermaLink="false">https://flowgames.gg/?p=68497</guid>
+
+					<description><![CDATA[Um port não oficial de Majora's Mask para PC traz melhorias essenciais para curtir o jogo atualmente. Confira!]]></description>
+										<content:encoded><![CDATA[<p>Lançado em abril de 2000, <a href="https://flowgames.gg/zelda-pode-ser-protagonista-jogavel-futuro-game-rumor/" target="_blank" rel="noopener">The Legend of Zelda: Majora&#8217;s Mask</a> levou os fãs da franquia em uma aventura incrível em um mundo paralelo um pouco mais sombrio. O jogo até ganhou uma versão para <a href="https://flowgames.gg/lembrete-servicos-online-do-3ds-wii-u-fecham-em-breve/" target="_blank" rel="noopener">3DS</a>, mas fãs decidiram realizar uma espécie de port dele para PC que deve ser a sua versão definitiva.</p>
+<p>Um desenvolvedor conhecido apenas como Wiseguy realizou um projeto capaz de converter o código original de Majora&#8217;s Mask para PC através de engenharia reversa. Entretanto, além de apenas converter o jogo, ele também adicionou melhorias bem interessantes.</p>
+<p><iframe title="Zelda 64 Recompiled: A Revolution In N64 Native Ports For PC" width="500" height="281" src="https://www.youtube.com/embed/O1wlTOvn2y0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p>Algumas das funcionalidades novas incluem, por exemplo, suporte a resoluções widescreen, upscale e até um anti-aliasing nativo. Não somente isso, o jogo ganhou suporte para controles com dois analógicos e menus aprimorados, que funcionam até mesmo com um mouse.</p>
+<h2>Port requer ROM de Majora’s Mask</h2>
+<p>Para evitar problemas com direitos autorais, o port, conhecido como <a href="https://github.com/Zelda64Recomp/Zelda64Recomp" target="_blank" rel="noopener">Zelda 64: Recompiled</a>, requer a ROM do jogo para funcionar. Antes deste port ser lançado, vale lembrar que outro desenvolvedor também realizou um trabalho parecido com Ocarina of Time, que ganhou até mesmo suporte a Ray Tracing.</p>
+<p>E aí, leitor. O que você achou deste port do The Legend of Zelda: Majora&#8217;s Mask? Vai revisitar o jogo? Participe ao deixar seu comentário!</p>
+<p>Fonte: <a href="https://www.pcgamer.com/games/adventure/a-new-native-port-of-majoras-mask-might-change-how-we-play-n64-games-on-our-pcs/" target="_blank" rel="noopener">PC Gamer</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://flowgames.gg/port-de-majoras-mask-nao-oficial-pc-tirar-o-folego/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://www.youtube.com/embed/O1wlTOvn2y0" medium="video" width="1280" height="720">
+			<media:player url="https://www.youtube.com/embed/O1wlTOvn2y0" />
+			<media:title type="plain">Zelda 64 Recompiled: A Revolution In N64 Native Ports For PC</media:title>
+			<media:description type="html"><![CDATA[We&#039;ve seen recompilation projects before - and Nintendo 64 titles have received more than their fair share of them - but Zelda 64 Recompiled takes this to th...]]></media:description>
+			<media:thumbnail url="https://flowgames.gg/wp-content/uploads/2024/05/The-Legend-of-Zelda-Majoras-Mask-port-nao-oficial.jpg" />
+			<media:rating scheme="urn:simple">nonadult</media:rating>
+		</media:content>
+	</item>
+		<item>
+		<title>TRETA! Criador de Mad Max critica jogo, queria Kojima e dev reage</title>
+		<link>https://flowgames.gg/diretor-mad-max-critica-jogo-queria-kojima-dev-reage/</link>
+					<comments>https://flowgames.gg/diretor-mad-max-critica-jogo-queria-kojima-dev-reage/#respond</comments>
+		
+		<dc:creator><![CDATA[Bruno Micali]]></dc:creator>
+		<pubDate>Thu, 23 May 2024 19:11:10 +0000</pubDate>
+				<category><![CDATA[Games]]></category>
+		<category><![CDATA[Cultura Pop]]></category>
+		<category><![CDATA[adaptação]]></category>
+		<category><![CDATA[adaptações]]></category>
+		<category><![CDATA[Avalanche]]></category>
+		<category><![CDATA[cinema]]></category>
+		<category><![CDATA[Hideo Kojima]]></category>
+		<category><![CDATA[indústria de videogames]]></category>
+		<category><![CDATA[Kojima]]></category>
+		<category><![CDATA[Mad Max]]></category>
+		<category><![CDATA[mundo aberto]]></category>
+		<category><![CDATA[redes sociais]]></category>
+		<category><![CDATA[treta]]></category>
+		<category><![CDATA[warner]]></category>
+		<guid isPermaLink="false">https://flowgames.gg/?p=68678</guid>
+
+					<description><![CDATA[George Miller, criador e diretor dos filmes Mad Max, teceu críticas ao jogo de 2015, mas o estúdio reagiu]]></description>
+										<content:encoded><![CDATA[<p>Criador e diretor dos icônicos filmes da saga <strong>Mad Max</strong>, George Miller, que também dirige o vindouro &#8220;<a href="https://flowgames.gg/veja-os-filmes-que-estreiam-nos-cinemas-em-maio-2024/" target="_blank" rel="noopener">Furiosa: Uma Saga Mad Max</a>&#8220;, teceu algumas críticas ao jogo de 2015, desenvolvido pela Avalanche (de <strong>Just Cause </strong>e <strong>RAGE</strong>).</p>
+<p>No entanto, o líder do estúdio, Christofer Sundberg, reagiu à fala do cineasta e foi firme em seus comentários, deixando o assunto em polvorosa.</p>
+<h2>Mad Max nos games: diretor queria Kojima, mas &#8220;jamais pediria&#8221;</h2>
+<p>Em viagem a Cannes para a estreia do novo filme, Miller não escondeu sua admiração por Kojima, que também estava lá, e manifestou o desejo de ter um jogo Mad Max comandado pelo autor de Metal Gear e Death Stranding. O cineasta manifestou sua opinião em relação ao jogo lançado em 2015 pela Warner e a Avalanche.</p>
+<p>&#8220;Não foi tão bom quanto eu queria, não estava em nossas mãos. Demos todos nosso material para uma companhia fazer isso&#8230;mas sou uma daquelas pessoas que preferem não fazer algo a menos que isso possa atingir o nível máximo, ou ao menos tentar&#8221;, comentou ao Gaming Bible.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">George Miller revealed he wants <a href="https://twitter.com/HIDEO_KOJIMA_EN?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@HIDEO_KOJIMA_EN</a>  to make a Mad Max game🤯<a href="https://twitter.com/Kojima_Hideo?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@Kojima_Hideo</a> <a href="https://t.co/o8mDdSAkFs" target="_blank">pic.twitter.com/o8mDdSAkFs</a></p>
+<p>&mdash; GAMINGbible (@gamingbible) <a href="https://twitter.com/gamingbible/status/1792566156810756105?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">May 20, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>O diretor australiano não poupou elogios a Kojima. &#8220;Se ele assumisse isso [um jogo de Mad Max]&#8230;ele tem coisas tão fantásticas em sua própria cabeça que eu nunca pediria a ele&#8221;, declarou.</p>
+<p>Sundberg, líder do estúdio que desenvolveu o jogo de Mad Max lançado em 2015, reagiu ao descontentamento do cineasta: &#8220;Isso é completamente sem noção e mostra apenas total arrogância. Fizeram tudo que podiam para criar um jogo linear completo. Tenho certeza de que Hideo Kojima faria um jogo de Mad Max sensacional, mas seria uma experiência completamente diferente&#8221;, esbravejou.</p>
+<p>O desenvolvedor disse que a data de lançamento do título também foi infeliz, coincidindo com o mesmo dia de <strong>Metal Gear Solid 5: The Phantom Pain</strong>, por acaso de Kojima. Até mesmo expansões estavam planejadas para o jogo de Mad Max, mas, devido às baixas vendas, foram abortadas.</p>
+<p>E aí, como você avalia esse game de 2015? Que é muito querido por vários jogadores? Como que será que ficaria uma adaptação nas mãos de Kojima, a mente brilhante por trás de Metal Gear e Death Stranding? Registre sua opinião aqui embaixo, no campo dedicado aos comentários!</p>
+<p><em>Via <a href="https://www.pcgamer.com/games/action/george-miller-didnt-like-the-2015-mad-max-game-says-he-wants-hideo-kojima-to-make-one-but-i-would-never-ask-him/?utm_campaign=socialflow&amp;utm_medium=social&amp;utm_source=twitter.com" target="_blank" rel="noopener">PC Gamer</a></em></p>
+<div id="attachment_36253" style="width: 1090px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-36253" class="size-full wp-image-36253" src="https://flowgames.gg/wp-content/uploads/2023/08/metal-gear-solid-master-collection-1-performance.jpg" alt="Metal Gear Solid Master Collection vol. 1 desempenho resolução Mad Max" width="1080" height="604" title="Mad Max" srcset="https://flowgames.gg/wp-content/uploads/2023/08/metal-gear-solid-master-collection-1-performance.jpg 1080w, https://flowgames.gg/wp-content/uploads/2023/08/metal-gear-solid-master-collection-1-performance-300x168.jpg 300w, https://flowgames.gg/wp-content/uploads/2023/08/metal-gear-solid-master-collection-1-performance-1044x584.jpg 1044w, https://flowgames.gg/wp-content/uploads/2023/08/metal-gear-solid-master-collection-1-performance-768x430.jpg 768w, https://flowgames.gg/wp-content/uploads/2023/08/metal-gear-solid-master-collection-1-performance-150x84.jpg 150w" sizes="(max-width: 1080px) 100vw, 1080px" /><p id="caption-attachment-36253" class="wp-caption-text">Imagem: Konami</p></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://flowgames.gg/diretor-mad-max-critica-jogo-queria-kojima-dev-reage/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Xbox Game Pass ganha hoje (23) mais 2 jogos DAY ONE!</title>
+		<link>https://flowgames.gg/xbox-game-pass-2-jogos-day-one-dia-23-05/</link>
+					<comments>https://flowgames.gg/xbox-game-pass-2-jogos-day-one-dia-23-05/#respond</comments>
+		
+		<dc:creator><![CDATA[Thomas Schulze]]></dc:creator>
+		<pubDate>Thu, 23 May 2024 18:53:59 +0000</pubDate>
+				<category><![CDATA[Games]]></category>
+		<category><![CDATA[galacticare]]></category>
+		<category><![CDATA[hauntii]]></category>
+		<category><![CDATA[pc]]></category>
+		<category><![CDATA[xbox]]></category>
+		<category><![CDATA[xbox game pass]]></category>
+		<category><![CDATA[xbox one]]></category>
+		<category><![CDATA[xbox series x/s]]></category>
+		<guid isPermaLink="false">https://flowgames.gg/?p=68659</guid>
+
+					<description><![CDATA[Catálogo do Xbox Game Pass cresce com a adição de dois lançamentos day one em 23/05/2024]]></description>
+										<content:encoded><![CDATA[<p>Quem assina o Xbox Game Pass já pode curtir, a partir de hoje (23) dois lançamentos Day One que chegaram ao serviço sem custos adicionais.</p>
+<p>Além dos <a href="https://flowgames.gg/game-pass-tem-mais-4-jogos-confirmados-para-maio-veja/">vários jogos adicionados ao longo de maio de 2024</a>, o mês é fechado com chave de ouro graças a Hauntii (PC, Cloud, Xbox One e Xbox Series X/S) e Galacticare (PC, Cloud e Xbox Series X/S).</p>
+<h2>Conheça os novos jogos do Xbox Game Pass</h2>
+<p><iframe title="Hauntii - Official Release Date Trailer" width="500" height="281" src="https://www.youtube.com/embed/lGRv33366P8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p>Hauntii foi feito pela Moonloop Games e empolga por ser um twin stick shooter com visual feito à mão, enquanto Galacticare une ficção científica com gerenciamento de um hospital alienígena.</p>
+<p><iframe loading="lazy" title="Galacticare Release Trailer | Launching May 23" width="500" height="281" src="https://www.youtube.com/embed/R55ftpZEpK4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p>E você, o que achou dos novos jogos do Xbox? Comente a seguir!</p>
+<p><em>Fonte: <a href="https://gamerant.com/xbox-game-pass-may-2024-games-list-galacticare-hauntii/?taid=664f648796abb10001e5ebda&amp;utm_campaign=TrueAnthem-GR&amp;utm_medium=Social-Distribution&amp;utm_source=Twitter" target="_blank" rel="noopener">GameRant</a></em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://flowgames.gg/xbox-game-pass-2-jogos-day-one-dia-23-05/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://www.youtube.com/embed/lGRv33366P8" medium="video" width="1280" height="720">
+			<media:player url="https://www.youtube.com/embed/lGRv33366P8" />
+			<media:title type="plain">Hauntii - Official Release Date Trailer</media:title>
+			<media:description type="html"><![CDATA[Step into the surreal, beautiful world of Hauntii in this latest trailer for the upcoming adventure game. Hauntii will be available on PC, Xbox Series X/S, P...]]></media:description>
+			<media:thumbnail url="https://flowgames.gg/wp-content/uploads/2023/07/image-2023-07-12T112747_288-transformed.jpg" />
+			<media:rating scheme="urn:simple">nonadult</media:rating>
+		</media:content>
+	</item>
+		<item>
+		<title>Devolver anuncia Direct em junho para o período da “não-E3”</title>
+		<link>https://flowgames.gg/devolver-anuncia-direct-em-junho-periodo-da-nao-e3/</link>
+					<comments>https://flowgames.gg/devolver-anuncia-direct-em-junho-periodo-da-nao-e3/#respond</comments>
+		
+		<dc:creator><![CDATA[Vinícius Munhoz]]></dc:creator>
+		<pubDate>Thu, 23 May 2024 18:50:50 +0000</pubDate>
+				<category><![CDATA[Games]]></category>
+		<category><![CDATA[acompanhar]]></category>
+		<category><![CDATA[Anger Foot]]></category>
+		<category><![CDATA[apresentação]]></category>
+		<category><![CDATA[assistir]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[Devolver]]></category>
+		<category><![CDATA[Devolver Digital]]></category>
+		<category><![CDATA[Direct]]></category>
+		<category><![CDATA[e3]]></category>
+		<category><![CDATA[Evento]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[horário]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[jogo]]></category>
+		<category><![CDATA[junho]]></category>
+		<category><![CDATA[não E3]]></category>
+		<category><![CDATA[período]]></category>
+		<category><![CDATA[showcase]]></category>
+		<category><![CDATA[The Plucky Squire]]></category>
+		<category><![CDATA[Transmissão]]></category>
+		<guid isPermaLink="false">https://flowgames.gg/?p=68674</guid>
+
+					<description><![CDATA[A E3 morreu, mas os eventos não param: dessa vez, foi a Devolver Digital que confirmou seu novo Direct para junho! Veja detalhes]]></description>
+										<content:encoded><![CDATA[<p>Apesar de a E3 não existir mais, o “<a href="https://flowgames.gg/ubisoft-forward-2024-confirmada-para-junho-nao-e3/">período da E3</a>” parece que será eterno, consolidando as maiores apresentações de jogos no começo de junho. Agora, foi a <a href="https://flowgames.gg/com-teaser-bizarro-devolver-digital-anuncia-novo-jogo/"><strong>Devolver Digital</strong></a> que anunciou sua apresentação, revelando que teremos um Direct marcado no dia <strong>7 de junho às 21h do horário de Brasília.</strong></p>
+<div id="attachment_24982" style="width: 1290px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-24982" class="size-full wp-image-24982" src="https://flowgames.gg/wp-content/uploads/2023/06/maxresdefault.jpg" alt="summer game fest" width="1280" height="720" title="Mad Max" srcset="https://flowgames.gg/wp-content/uploads/2023/06/maxresdefault.jpg 1280w, https://flowgames.gg/wp-content/uploads/2023/06/maxresdefault-300x169.jpg 300w, https://flowgames.gg/wp-content/uploads/2023/06/maxresdefault-1044x587.jpg 1044w, https://flowgames.gg/wp-content/uploads/2023/06/maxresdefault-768x432.jpg 768w, https://flowgames.gg/wp-content/uploads/2023/06/maxresdefault-150x84.jpg 150w" sizes="(max-width: 1280px) 100vw, 1280px" /><p id="caption-attachment-24982" class="wp-caption-text">Imagem: Devolver Digital</p></div>
+<h2>Devolver terá Direct recheado de novidades</h2>
+<p>Se você já acompanhou as apresentações da Devolver no passado, seja na E3 ou alguma que ocorre em junho, sabe que “maluquice” é pouco para descrever o que a distribuidora faz na transmissão.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">You&#39;re invited to Volvy&#39;s 15th Birthday Party.</p>
+<p>Devolver Direct<br />June 7 @ 5PM Pacific<a href="https://t.co/ZDZrMppDxT" target="_blank">https://t.co/ZDZrMppDxT</a> <a href="https://t.co/rAYlJN9QAf" target="_blank">pic.twitter.com/rAYlJN9QAf</a></p>
+<p>&mdash; Devolver Digital (@devolverdigital) <a href="https://twitter.com/devolverdigital/status/1793673243422777616?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">May 23, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Entretanto, em meio a todas as doideiras (que, nesse ano, terá como tema o “aniversário de Volvy”), há diversos trailers de jogos inéditos, gameplays e atualizações de games já anunciados.</p>
+<p>Apesar de nenhum título ter sido confirmado pela Devolver, vale lembrar que há projetos que estavam previstos para esse ano (ou para 2023 e foram adiados), como <strong>Anger Foot, The Plucky Squire, Baby Steps, Neva, Human Fall Flat 2 e Skate Story.</strong></p>
+<div id="attachment_58317" style="width: 1239px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-58317" class="size-full wp-image-58317" src="https://flowgames.gg/wp-content/uploads/2024/02/the-plucky-squire-novo-trailer.jpg" alt="The Plucky Squire novo trailer" width="1229" height="709" title="Mad Max" srcset="https://flowgames.gg/wp-content/uploads/2024/02/the-plucky-squire-novo-trailer.jpg 1229w, https://flowgames.gg/wp-content/uploads/2024/02/the-plucky-squire-novo-trailer-300x173.jpg 300w, https://flowgames.gg/wp-content/uploads/2024/02/the-plucky-squire-novo-trailer-1044x602.jpg 1044w, https://flowgames.gg/wp-content/uploads/2024/02/the-plucky-squire-novo-trailer-768x443.jpg 768w, https://flowgames.gg/wp-content/uploads/2024/02/the-plucky-squire-novo-trailer-150x87.jpg 150w" sizes="(max-width: 1229px) 100vw, 1229px" /><p id="caption-attachment-58317" class="wp-caption-text">Imagem: Devolver</p></div>
+<p>Porém, mesmo com 6 jogos em potencial para ganhar atualizações, é provável que novos games sejam anunciados durante a conferência.</p>
+<p>O Devolver Digital Direct acontece no dia 7 de junho às 21h do horário de Brasília. Empolgados?</p>
+<p><em>Fonte: <a href="https://x.com/devolverdigital/status/1793673243422777616" target="_blank">Twitter</a></em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://flowgames.gg/devolver-anuncia-direct-em-junho-periodo-da-nao-e3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Review: Asleep: Ato 1 é um mergulho a um pesadelo sombrio</title>
+		<link>https://flowgames.gg/asleep-ato-1-e-um-mergulho-a-um-pesadelo-sombrio/</link>
+					<comments>https://flowgames.gg/asleep-ato-1-e-um-mergulho-a-um-pesadelo-sombrio/#respond</comments>
+		
+		<dc:creator><![CDATA[Thais Bassani]]></dc:creator>
+		<pubDate>Thu, 23 May 2024 18:50:40 +0000</pubDate>
+				<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[2D]]></category>
+		<category><![CDATA[Ana Lúcia]]></category>
+		<category><![CDATA[Análise]]></category>
+		<category><![CDATA[Asleep]]></category>
+		<category><![CDATA[Asleep: Ato 1]]></category>
+		<category><![CDATA[BlackHole Games]]></category>
+		<category><![CDATA[Crítica]]></category>
+		<category><![CDATA[Flow Games]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[jogo]]></category>
+		<category><![CDATA[monstros]]></category>
+		<category><![CDATA[Nuuvem]]></category>
+		<category><![CDATA[opinião]]></category>
+		<category><![CDATA[pesadelos]]></category>
+		<category><![CDATA[point and click]]></category>
+		<category><![CDATA[Review]]></category>
+		<category><![CDATA[steam]]></category>
+		<category><![CDATA[terror psicológico]]></category>
+		<category><![CDATA[vale a pena]]></category>
+		<guid isPermaLink="false">https://flowgames.gg/?p=68425</guid>
+
+					<description><![CDATA[Asleep: Ato 1 resgata os clássicos do gênero de forma bem feita]]></description>
+										<content:encoded><![CDATA[<p>Se você é fã de games de<a href="https://flowgames.gg/jogamos-killer-klowns-from-outer-space-the-game/"> terror</a> psicológico, então Asleep é uma ótima opção para você manter em seu radar. Desenvolvido pelo estúdio brasileiro Black Hole Games, Asleep é um jogo point and click 2D em pixel art ambientado no Nordeste dos anos 90.</p>
+<p><span style="font-weight: 400;">A campanha traz a história de Ana Lúcia, uma garota solitária e confusa que sofre com pesadelos sombrios a noite. Ao acordar em um local estranho, a jovem não se recorda do passado nem das pessoas que viviam ao seu redor. </span></p>
+<p><span style="font-weight: 400;">Munida de apenas uma lanterna no meio da escuridão, a jovem garota terá que coletar todas as pistas possíveis para desvendar esse mistério. No meio dessa realidade caótica, Analu tem a missão de encontrar uma menina perdida em uma escola cheia de monstros horripilantes e sair do pesadelo. Ficou curioso? Então veja nosso review completo abaixo:</span></p>
+<p><iframe loading="lazy" title="Asleep: Ato 1 | Teaser Trailer" width="500" height="281" src="https://www.youtube.com/embed/YUYjKNmo0a4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<h3><b>Asleep: Ato 1 &#8211; Dentro do pesadelo de Ana Lúcia</b></h3>
+<p><span style="font-weight: 400;">Ao iniciar a jogatina, você já é inserido em um dos pesadelos de Analu. A garota conversa com uma senhora em um local bem estranho e logo após ‘acorda’ em seu quarto, a partir daí que a aventura começa para valer.</span></p>
+<p><span style="font-weight: 400;">Durante sua jornada, os jogadores terão que vasculhar cada cantinho para encontrar pistas e itens que podem ser muito úteis para o desenrolar da história, principalmente para destrancar portas e resolver puzzles, além de lutar para manter a saúde e sanidade da protagonista contra os inimigos.</span></p>
+<p><span style="font-weight: 400;">Asleep é inspirado em grandes títulos do gênero, sobretudo Silent Hill, pois conta com uma atmosfera nebulosa em sua jogabilidade bem ao estilo de jogos de terror da época – </span><span style="font-weight: 400;">afinal, Asleep é ambientado nos anos 90. </span></p>
+<p><span style="font-weight: 400;">Nota-se que os desenvolvedores trabalharam cuidadosamente nos detalhes, isso é bem visível durante a jogatina, pois há inspirações e alguns easter eggs que farão com que os jogadores sintam aquele gostinho nostálgico.</span></p>
+<div id="attachment_68430" style="width: 1054px" class="wp-caption alignnone"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-68430" class="size-large wp-image-68430" src="https://flowgames.gg/wp-content/uploads/2024/05/Captura-de-tela-2024-05-19-082828-1044x587.jpg" alt="asleep" width="1044" height="587" title="Mad Max" srcset="https://flowgames.gg/wp-content/uploads/2024/05/Captura-de-tela-2024-05-19-082828-1044x587.jpg 1044w, https://flowgames.gg/wp-content/uploads/2024/05/Captura-de-tela-2024-05-19-082828-300x169.jpg 300w, https://flowgames.gg/wp-content/uploads/2024/05/Captura-de-tela-2024-05-19-082828-768x432.jpg 768w, https://flowgames.gg/wp-content/uploads/2024/05/Captura-de-tela-2024-05-19-082828-1536x864.jpg 1536w, https://flowgames.gg/wp-content/uploads/2024/05/Captura-de-tela-2024-05-19-082828-150x84.jpg 150w, https://flowgames.gg/wp-content/uploads/2024/05/Captura-de-tela-2024-05-19-082828.jpg 1920w" sizes="(max-width: 1044px) 100vw, 1044px" /><p id="caption-attachment-68430" class="wp-caption-text">Imagem: Blackhole Games</p></div>
+<blockquote><p><span style="font-weight: 400;">“Existem muitas inspirações nesse sentido que usamos, mas com certeza uma delas foi a vontade de produzir um jogo de terror com um toque mais brasileiro, mas especialmente pensando em games de terror dos anos 90, época de ouro dos jogos survival horror. Algo mais atmosférico, melancólico e até ilusório. Mas principalmente queria um game que nós brasileiros pudéssemos jogar e nos sentir representados, seja pela cultura, pela </span><span style="font-weight: 400;">ambientação e até pela narrativa mais intimista, pois a protagonista é uma pessoa simples e com dilemas comuns como nós. Então acho que essa foi nossa principal inspiração. O terror psicológico foi só uma camada que aglutinamos aos pesadelos da nossa querida protagonista.”</span></p></blockquote>
+<p><span style="font-weight: 400;">Com poucas informações na tela, apenas a barra de vida de Analu é visível – além dos mapas da escola em que você coleta logo de início para te ajudar a se localizar pelo local e o menu de itens que aparece apenas após selecionar o botão específico.</span></p>
+<p><span style="font-weight: 400;">Portando apenas uma lanterna, não pense que você conseguirá lutar ou matar os inimigos, pois o jogo não cede nenhuma arma para isso. Dessa forma, você terá que driblar as criaturas para conseguir chegar ao seu objetivo, seja usando ou não a lanterna para &#8216;derrotá-los&#8217;.</span></p>
+<p><span style="font-weight: 400;">De modo geral, a jogabilidade não apresenta um nível elevado de dificuldade, seja você veterano ou novato em jogos do gênero: passar pelos desafios se tornará algo intuitivo.</span></p>
+<h3><b>Toda a nostalgia dos clássicos</b></h3>
+<p><span style="font-weight: 400;">Com gráficos em 2D pixelizados, Asleep logo nos transporta para os clássicos de terror, principalmente pelos inimigos rastejantes que lembram bem os Lickers de Resident Evil e até mesmo os Clickers de The Last of Us.</span></p>
+<p><span style="font-weight: 400;">Outro destaque fica por conta das cutscenes que possuem uma arte com desenhos feitos à mão, dando ainda mais personalidade ao jogo e enriquecendo o trabalho feito pelos criadores.</span></p>
+<div id="attachment_68444" style="width: 1054px" class="wp-caption alignnone"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-68444" class="size-large wp-image-68444" src="https://flowgames.gg/wp-content/uploads/2024/05/Captura-de-tela-2024-05-13-210228-1044x587.jpg" alt="Mad Max" width="1044" height="587" title="Mad Max" srcset="https://flowgames.gg/wp-content/uploads/2024/05/Captura-de-tela-2024-05-13-210228-1044x587.jpg 1044w, https://flowgames.gg/wp-content/uploads/2024/05/Captura-de-tela-2024-05-13-210228-300x169.jpg 300w, https://flowgames.gg/wp-content/uploads/2024/05/Captura-de-tela-2024-05-13-210228-768x432.jpg 768w, https://flowgames.gg/wp-content/uploads/2024/05/Captura-de-tela-2024-05-13-210228-1536x864.jpg 1536w, https://flowgames.gg/wp-content/uploads/2024/05/Captura-de-tela-2024-05-13-210228-150x84.jpg 150w, https://flowgames.gg/wp-content/uploads/2024/05/Captura-de-tela-2024-05-13-210228.jpg 1920w" sizes="(max-width: 1044px) 100vw, 1044px" /><p id="caption-attachment-68444" class="wp-caption-text">Imagem: Blackhole Games</p></div>
+<p><span style="font-weight: 400;">Asleep com certeza é um prato cheio para aqueles que procuram jogatinas únicas com aquele toque especial. </span><span style="font-weight: 400;">Mas não se engane: todos os elementos presentes no game foram totalmente pensados. Desde as ruas, ambientes e até a forma como a protagonista reage a cada um deles. </span></p>
+<blockquote><p><span style="font-weight: 400;">“Eu, como </span><span style="font-weight: 400;">idealizador, coloquei alguns easter eggs da minha cidade natal no Piauí, como por exemplo o parquinho no começo do jogo, ele realmente existe até hoje, e na época existia uma locadora de videogames lá onde cresci jogando, e foi lá também que conheci Silent Hill do PS1 pela primeira vez, a franquia de terror que mudou a minha vida e serviu de inspiração principal para Asleep&#8221;, disse Décio Oliveira, idealizador de Asleep.</span></p></blockquote>
+<h3><b>Para uma imersão completa, fones de ouvido são obrigatórios</b></h3>
+<p><span style="font-weight: 400;">Assim como em qualquer jogo de terror, a experiência não se torna 100% se o jogador não utilizar um fone de ouvido, afinal, os sons não se propagaram da mesma forma. </span></p>
+<p><span style="font-weight: 400;">Em Asleep não é diferente, pois a música de fundo tornará o clima ainda mais tenso, fazendo com que você fique ainda mais apreensivo. O que mais me chamou a atenção com certeza foi em relação ao som que alguns inimigos emitiram, que era igualzinho aos temidos estaladores de The Last of Us.</span></p>
+<p><span style="font-weight: 400;">Curiosamente, esse som pertinente não é só coincidência, pois “<em>a voz de um dos monstros do jogo foi feita pela mesma pessoa que gravou os efeitos sonoros dos clickers de The Last Of Us&#8221;, disse Décio Oliveira, Idealizador de Asleep ao Flow Games.</em> </span></p>
+<div id="attachment_68442" style="width: 1054px" class="wp-caption alignnone"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-68442" class="size-large wp-image-68442" src="https://flowgames.gg/wp-content/uploads/2024/05/Copy-of-Asleep-10_02_2023-12_15_59-1044x587.jpg" alt="Mad Max" width="1044" height="587" title="Mad Max" srcset="https://flowgames.gg/wp-content/uploads/2024/05/Copy-of-Asleep-10_02_2023-12_15_59-1044x587.jpg 1044w, https://flowgames.gg/wp-content/uploads/2024/05/Copy-of-Asleep-10_02_2023-12_15_59-300x169.jpg 300w, https://flowgames.gg/wp-content/uploads/2024/05/Copy-of-Asleep-10_02_2023-12_15_59-768x432.jpg 768w, https://flowgames.gg/wp-content/uploads/2024/05/Copy-of-Asleep-10_02_2023-12_15_59-1536x864.jpg 1536w, https://flowgames.gg/wp-content/uploads/2024/05/Copy-of-Asleep-10_02_2023-12_15_59-150x84.jpg 150w, https://flowgames.gg/wp-content/uploads/2024/05/Copy-of-Asleep-10_02_2023-12_15_59.jpg 1920w" sizes="(max-width: 1044px) 100vw, 1044px" /><p id="caption-attachment-68442" class="wp-caption-text">Imagem: Blackhole Games</p></div>
+<p><span style="font-weight: 400;">Não há como notar o belo trabalho feito pela equipe de sonoplastia, este com certeza é um dos elementos importantes que dão vida ao jogo, pois imerso na escuridão, o jogador por vezes ficará apenas com o som dos passos de Analu, das criaturas se rastejando pelo chão ou até mesmo alguns gritos desesperados.</span></p>
+<p><span style="font-weight: 400;">Por isso, a dica é: apague as luzes, pegue seu headset e esteja pronto para a escuridão.</span></p>
+<h3><b>Vozes dos personagens dão um toque a mais de personalidade ao game</b></h3>
+<p><span style="font-weight: 400;">Por ser um jogo completamente brasileiro, fica a dúvida sobre como seria o trabalho para as vozes originais. Em Asleep este foi o que deu o toque especial à narrativa. Pois não só a voz da Ana Lúcia se encaixou perfeitamente, como o casting, em sua maioria nordestino, selecionado para dar voz aos outros personagens também.</span></p>
+<p><span style="font-weight: 400;">Esse cuidado é notável no game e é o que faz os jogadores se transportarem para o lugar em que se passa, no nordeste brasileiro. </span><span style="font-weight: 400;">Além disso, os devs também adicionaram uma dublagem em inglês, com atores e atrizes renomados da indústria. </span></p>
+<h3><b>E aí, Asleep vale a pena ou não?</b></h3>
+<p><span style="font-weight: 400;">Com 3 horas de gameplay, posso dizer que me diverti jogando Asleep, pois traz uma narrativa bem sólida que te deixa curioso para descobrir o que de fato está acontecendo. E no fim, ainda fica o gostinho de quero mais. </span></p>
+<p><span style="font-weight: 400;">No entanto, embarquei na aventura utilizando um controle, mas tive algumas dificuldades durante o jogo, pois ao dar o comando a personagem não respondia – ou em horas que estava sendo atacada pelos inimigos, ela não corria e tentava se desvencilhar.</span></p>
+<div id="attachment_68445" style="width: 1054px" class="wp-caption alignnone"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-68445" class="size-large wp-image-68445" src="https://flowgames.gg/wp-content/uploads/2024/05/Copy-of-Asleep-10_02_2023-12_19_29-1044x587.jpg" alt="Mad Max" width="1044" height="587" title="Mad Max" srcset="https://flowgames.gg/wp-content/uploads/2024/05/Copy-of-Asleep-10_02_2023-12_19_29-1044x587.jpg 1044w, https://flowgames.gg/wp-content/uploads/2024/05/Copy-of-Asleep-10_02_2023-12_19_29-300x169.jpg 300w, https://flowgames.gg/wp-content/uploads/2024/05/Copy-of-Asleep-10_02_2023-12_19_29-768x432.jpg 768w, https://flowgames.gg/wp-content/uploads/2024/05/Copy-of-Asleep-10_02_2023-12_19_29-1536x864.jpg 1536w, https://flowgames.gg/wp-content/uploads/2024/05/Copy-of-Asleep-10_02_2023-12_19_29-150x84.jpg 150w, https://flowgames.gg/wp-content/uploads/2024/05/Copy-of-Asleep-10_02_2023-12_19_29.jpg 1920w" sizes="(max-width: 1044px) 100vw, 1044px" /><p id="caption-attachment-68445" class="wp-caption-text">Imagem: Blackhole Games</p></div>
+<p><span style="font-weight: 400;">Acredito que este foi o grande problema que encontrei durante o jogo, alguns bugs que logo devem ser consertados em uma futura atualização, mas nada que vá impactar tanto sua experiência. </span></p>
+<p><span style="font-weight: 400;">No mais, Asleep entrega o que promete, um jogo de terror psicológico 2D, pixelizado e point and click, resgatando em sua essência os clássicos do gênero. </span>Ao todo são<strong> 3 atos</strong>, com apenas o primeiro disponível para jogar.<span style="font-weight: 400;"> Outro ponto positivo é em relação ao <a href="https://store.steampowered.com/app/1583850/Asleep__Ato_1/" target="_blank" rel="noopener">preço super acessível,</a> que é mais do que um incentivo a todos para embarcarem nos pesadelos sombrios de Analu.</span></p>
+<p><span style="font-weight: 400;"> Infelizmente ainda não há uma data confirmada para os próximos capítulos, mas segundo o idealizador do jogo, Décio Oliveira, a continuação da história de Ana Lúcia chegará muito em breve.</span></p>
+<p><em><span style="font-weight: 400;">Testado no </span><strong>PC</strong><span style="font-weight: 400;"> via Steam. Uma cópia Asleep: Ato 1 foi gentilmente cedida pela Nuuvem para a realização desta análise.</span></em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://flowgames.gg/asleep-ato-1-e-um-mergulho-a-um-pesadelo-sombrio/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://www.youtube.com/embed/YUYjKNmo0a4" medium="video" width="1280" height="720">
+			<media:player url="https://www.youtube.com/embed/YUYjKNmo0a4" />
+			<media:title type="plain">Asleep: Ato 1 | Teaser Trailer</media:title>
+			<media:description type="html"><![CDATA[Coloque Asleep: Ato 1 na sua lista de desejos na Nuuvem! 👇 https://nuuvem.com/-/item/asleepInscreva-se no canal: shorturl.at/hzGTV​​☁️ Acesse o nosso site: ...]]></media:description>
+			<media:thumbnail url="https://flowgames.gg/wp-content/uploads/2024/05/Captura-de-tela-2024-05-13-210032.jpg" />
+			<media:rating scheme="urn:simple">nonadult</media:rating>
+		</media:content>
+	</item>
+		<item>
+		<title>Switch 2 pode ter revisão de hardware e ficar mais potente</title>
+		<link>https://flowgames.gg/switch-2-pode-revisao-dhardware-ficar-mais-potente/</link>
+					<comments>https://flowgames.gg/switch-2-pode-revisao-dhardware-ficar-mais-potente/#respond</comments>
+		
+		<dc:creator><![CDATA[Vinícius Munhoz]]></dc:creator>
+		<pubDate>Thu, 23 May 2024 18:14:23 +0000</pubDate>
+				<category><![CDATA[Games]]></category>
+		<category><![CDATA[4.5 Teraflops]]></category>
+		<category><![CDATA[Boato]]></category>
+		<category><![CDATA[chip]]></category>
+		<category><![CDATA[console]]></category>
+		<category><![CDATA[especificações]]></category>
+		<category><![CDATA[hardware]]></category>
+		<category><![CDATA[litografia]]></category>
+		<category><![CDATA[Nintendo]]></category>
+		<category><![CDATA[Nintendo Switch]]></category>
+		<category><![CDATA[poderoso]]></category>
+		<category><![CDATA[portátil]]></category>
+		<category><![CDATA[potência]]></category>
+		<category><![CDATA[potente]]></category>
+		<category><![CDATA[rumor]]></category>
+		<category><![CDATA[switch]]></category>
+		<category><![CDATA[switch 2]]></category>
+		<category><![CDATA[videogame]]></category>
+		<guid isPermaLink="false">https://flowgames.gg/?p=68654</guid>
+
+					<description><![CDATA[Se as informações divulgadas por um insider estiverem corretas, o Switch 2 pode ser mais potente]]></description>
+										<content:encoded><![CDATA[<p>A Nintendo sequer revelou oficialmente o <a href="https://flowgames.gg/switch-2-pode-ter-12-gb-de-ram-256-gb-armazenamento/">Switch 2</a> (mas confirmou que novidades chegam até ano que vem), mas a comunidade está polvorosa para saber o que terá embaixo do capô. Apesar de rumores e chutes seguros terem surgido no passado, pode ser que essas especificações técnicas mudem – mas para melhor.</p>
+<div id="attachment_8460" style="width: 1929px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-8460" class="size-full wp-image-8460" src="https://flowgames.gg/wp-content/uploads/2022/12/alphacolor-N7zAu8eRVtA-unsplash-1.jpg" alt="Switch Pro" width="1919" height="1099" title="Mad Max" srcset="https://flowgames.gg/wp-content/uploads/2022/12/alphacolor-N7zAu8eRVtA-unsplash-1.jpg 1919w, https://flowgames.gg/wp-content/uploads/2022/12/alphacolor-N7zAu8eRVtA-unsplash-1-300x172.jpg 300w, https://flowgames.gg/wp-content/uploads/2022/12/alphacolor-N7zAu8eRVtA-unsplash-1-1044x598.jpg 1044w, https://flowgames.gg/wp-content/uploads/2022/12/alphacolor-N7zAu8eRVtA-unsplash-1-768x440.jpg 768w, https://flowgames.gg/wp-content/uploads/2022/12/alphacolor-N7zAu8eRVtA-unsplash-1-1536x880.jpg 1536w, https://flowgames.gg/wp-content/uploads/2022/12/alphacolor-N7zAu8eRVtA-unsplash-1-150x86.jpg 150w" sizes="(max-width: 1919px) 100vw, 1919px" /><p id="caption-attachment-8460" class="wp-caption-text">Imagem: Alphacolor on Unsplash</p></div>
+<h2>Switch 2 pode passar de 4 Teraflops para 4,5 Teraflops</h2>
+<p>Nesta altura, os rumores parecem estar bem seguros que o Switch 2 vai usar uma versão do chip T239 da NVIDIA com arquitetura Ampére. Porém, segundo o canal Moore’s Law is Dead (que já se provou fonte de confiança no passado), as coisas podem ter mudado um pouco.</p>
+<p><iframe loading="lazy" title="256C Zen 6 CONFIRMED, AMD Zen 5 Strix AI Naming, XBOX Meltdown, Nvidia RTX 5080 | Broken Silicon 258" width="500" height="281" src="https://www.youtube.com/embed/Vn7CQ2_jR4Y?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p>Inicialmente, o plano era seguir com a arquitetura de 8 nanômetros de 2023, mas como o console foi adiado internamente para 2025, a Nintendo teria repensado este processo e adotou uma litografia mais moderna, possivelmente desenvolvida pela Samsung, de espessura ainda menor (mas não foi revelado de quanto).</p>
+<p>Na prática, isso garante mais transistores no mesmo chip e uma eficiência energética melhor. Ou, em outras palavras, uma performance melhor gastando menos da bateria do Switch 2.</p>
+<div id="attachment_14084" style="width: 1088px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-14084" class="size-full wp-image-14084" src="https://flowgames.gg/wp-content/uploads/2023/02/Nintendo_switch.jpg" alt="Nintendo Switch 2" width="1078" height="658" title="Mad Max" srcset="https://flowgames.gg/wp-content/uploads/2023/02/Nintendo_switch.jpg 1078w, https://flowgames.gg/wp-content/uploads/2023/02/Nintendo_switch-300x183.jpg 300w, https://flowgames.gg/wp-content/uploads/2023/02/Nintendo_switch-1044x637.jpg 1044w, https://flowgames.gg/wp-content/uploads/2023/02/Nintendo_switch-768x469.jpg 768w, https://flowgames.gg/wp-content/uploads/2023/02/Nintendo_switch-150x92.jpg 150w" sizes="(max-width: 1078px) 100vw, 1078px" /><p id="caption-attachment-14084" class="wp-caption-text">imagem: Nintendo</p></div>
+<p>Desta forma, o canal estipula que a potência de 4 Teraflops pode subir um pouco, indo para a casa dos 4,5 Teraflops enquanto estiver no modo dock. Apesar de não ser “grandes números” como o PS5 ou Xbox Series X, é um número considerável próximo do Series S (mas com a vantagem de ter o DLSS e resoluções menores no modo portátil).</p>
+<p>De qualquer maneira, Teraflops não é a melhor métrica para medir a potência de um console e não deve ser tomado como um valor absoluto – além de que, como é sempre válido lembrar, trata-se de um rumor.</p>
+<div id="attachment_10209" style="width: 1305px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-10209" class="size-full wp-image-10209" src="https://flowgames.gg/wp-content/uploads/2023/01/image-2023-01-19T115040.034.jpg" alt="Nintendo Switch 2" width="1295" height="863" title="Mad Max" srcset="https://flowgames.gg/wp-content/uploads/2023/01/image-2023-01-19T115040.034.jpg 1295w, https://flowgames.gg/wp-content/uploads/2023/01/image-2023-01-19T115040.034-300x200.jpg 300w, https://flowgames.gg/wp-content/uploads/2023/01/image-2023-01-19T115040.034-1044x696.jpg 1044w, https://flowgames.gg/wp-content/uploads/2023/01/image-2023-01-19T115040.034-768x512.jpg 768w, https://flowgames.gg/wp-content/uploads/2023/01/image-2023-01-19T115040.034-150x100.jpg 150w" sizes="(max-width: 1295px) 100vw, 1295px" /><p id="caption-attachment-10209" class="wp-caption-text">Imagem: Curved (conceito)</p></div>
+<p><em>Fonte: <a href="https://wccftech.com/nintendo-switch-2-node-4-5-teraflops/" target="_blank" rel="noopener">via WCCFTech</a></em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://flowgames.gg/switch-2-pode-revisao-dhardware-ficar-mais-potente/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://www.youtube.com/embed/Vn7CQ2_jR4Y" medium="video" width="1280" height="720">
+			<media:player url="https://www.youtube.com/embed/Vn7CQ2_jR4Y" />
+			<media:title type="plain">256C Zen 6 CONFIRMED, AMD Zen 5 Strix AI Naming, XBOX Meltdown, Nvidia RTX 5080 | Broken Silicon 258</media:title>
+			<media:description type="html"><![CDATA[We release NEW AMD “AI 9 100” whispers, and discuss the latest gaming hardware news![SPON: Get the BEST DEALS NOW during FlexiSpot’s Brand Day: https://bit.l...]]></media:description>
+			<media:thumbnail url="https://flowgames.gg/wp-content/uploads/2022/12/imagem_2022-12-17_194440651.jpg" />
+			<media:rating scheme="urn:simple">nonadult</media:rating>
+		</media:content>
+	</item>
+		<item>
+		<title>Xbox traz mais 9 jogos para curtir GRÁTIS no fim de semana</title>
+		<link>https://flowgames.gg/xbox-traz-mais-9-jogos-para-curtir-gratis-fim-semana/</link>
+					<comments>https://flowgames.gg/xbox-traz-mais-9-jogos-para-curtir-gratis-fim-semana/#respond</comments>
+		
+		<dc:creator><![CDATA[Thais Bassani]]></dc:creator>
+		<pubDate>Thu, 23 May 2024 17:44:44 +0000</pubDate>
+				<category><![CDATA[Games]]></category>
+		<category><![CDATA[9 jogos]]></category>
+		<category><![CDATA[download]]></category>
+		<category><![CDATA[Fim de semana]]></category>
+		<category><![CDATA[franquia]]></category>
+		<category><![CDATA[game pass]]></category>
+		<category><![CDATA[jogo grátis]]></category>
+		<category><![CDATA[lista]]></category>
+		<category><![CDATA[membros]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[Série]]></category>
+		<category><![CDATA[tempo limitado]]></category>
+		<category><![CDATA[warhammer]]></category>
+		<category><![CDATA[xbox]]></category>
+		<guid isPermaLink="false">https://flowgames.gg/?p=68661</guid>
+
+					<description><![CDATA[Disponível até segunda (27), os membros do Game Pass vão poder aproveitar toda a série Warhammer na faixa]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">A Microsoft sempre trabalha para oferecer jogatinas de peso aos jogadores, sobretudo no catálogo do Xbox <a href="https://flowgames.gg/novo-call-of-duty-chegara-ao-game-pass-diz-jornal/">Game Pass</a>. Como exemplo disso, há</span><span style="font-weight: 400;"> o programa Dias para Jogar de Graça, que traz periodicamente jogos adicionais como benefício aos assinantes do serviço. </span></p>
+<p><span style="font-weight: 400;">Para esta semana, a empresa anunciou por meio do blog oficial da marca, Xbox Wire, que toda a série Warhammer está disponível para download gratuitamente. </span></p>
+<h2>Dias para Jogar de Graça do Xbox traz série Warhammer</h2>
+<p><span style="font-weight: 400;">Sim, os fãs da franquia poderão se esbaldar com os 9 títulos da franquia que estão disponíveis para jogar a partir de hoje (23) <strong>até segunda (27</strong>). São eles: </span></p>
+<ul>
+<li>Necromunda: Underhive Wars</li>
+<li>Warhammer: Vermintide 2</li>
+<li>Warhammer 40,000: Mechanicus</li>
+<li>Blood Bowl 3</li>
+<li>Warhammer 40,000: Inquisitor – Martyr Ultimate Edition</li>
+<li>Warhammer: Chaosbane Xbox One</li>
+<li>Talisman: Digital Edition</li>
+<li>Warhammer 40,000: Rogue Trader</li>
+<li>Warhammer Age of Sigmar: Realms of Ruin</li>
+</ul>
+<div id="attachment_68662" style="width: 1054px" class="wp-caption alignnone"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-68662" class="size-large wp-image-68662" src="https://flowgames.gg/wp-content/uploads/2024/05/download-34-1-1-1044x587.jpg" alt="xbox" width="1044" height="587" title="Mad Max" srcset="https://flowgames.gg/wp-content/uploads/2024/05/download-34-1-1-1044x587.jpg 1044w, https://flowgames.gg/wp-content/uploads/2024/05/download-34-1-1-300x169.jpg 300w, https://flowgames.gg/wp-content/uploads/2024/05/download-34-1-1-768x432.jpg 768w, https://flowgames.gg/wp-content/uploads/2024/05/download-34-1-1-1536x864.jpg 1536w, https://flowgames.gg/wp-content/uploads/2024/05/download-34-1-1-150x84.jpg 150w, https://flowgames.gg/wp-content/uploads/2024/05/download-34-1-1.jpg 1920w" sizes="(max-width: 1044px) 100vw, 1044px" /><p id="caption-attachment-68662" class="wp-caption-text">Imagem: Microsoft</p></div>
+<p>Vale lembrar que apenas os membros do Game Pass Core e Ultimate terão acesso aos jogos listados acima, sendo assim a dica é correr e aproveitar a oportunidade e embarcar na aventura épica de Warhammer.</p>
+<p>Caso você queira continuar a diversão, poderá aproveitar um desconto especial oferecido como benefício da assinatura por tempo limitado.</p>
+<p>Via: <a href="https://news.xbox.com/pt-br/2024/05/23/dias-para-jogar-de-graca-serie-warhammer/" target="_blank" rel="noopener"><em>Xbox Wire</em></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://flowgames.gg/xbox-traz-mais-9-jogos-para-curtir-gratis-fim-semana/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Kombat Ranking: confira a tabela atualizada do torneio de MK1</title>
+		<link>https://flowgames.gg/kombat-ranking-mortal-kombat-1-tabela-atualizada/</link>
+					<comments>https://flowgames.gg/kombat-ranking-mortal-kombat-1-tabela-atualizada/#respond</comments>
+		
+		<dc:creator><![CDATA[Thomas Schulze]]></dc:creator>
+		<pubDate>Thu, 23 May 2024 16:54:45 +0000</pubDate>
+				<category><![CDATA[Esports]]></category>
+		<category><![CDATA[Games]]></category>
+		<category><![CDATA[fgc]]></category>
+		<category><![CDATA[Jogo de luta]]></category>
+		<category><![CDATA[max vianna]]></category>
+		<category><![CDATA[Mortal Kombat]]></category>
+		<category><![CDATA[mortal kombat 1]]></category>
+		<category><![CDATA[Online]]></category>
+		<category><![CDATA[Torneio]]></category>
+		<category><![CDATA[warner]]></category>
+		<guid isPermaLink="false">https://flowgames.gg/?p=67917</guid>
+
+					<description><![CDATA[Veja como estão os competidores do Kombat Ranking, o grande campeonato de Mortal Kombat 1]]></description>
+										<content:encoded><![CDATA[<p>Como anunciamos aqui no portal do Flow Games, <a href="https://flowgames.gg/mortal-kombat-1-kombat-ranking-torneio-aberto/">já começou o Kombat Ranking</a>, o <strong>grande torneio de Mortal Kombat 1</strong>.</p>
+<p>Entre os dias<strong> 14/05 e 03/07</strong> a competição seguirá fervorosamente com transmissão nos <a href="https://www.youtube.com/watch?v=ZglTPvazfr4" target="_blank" rel="noopener">canais do nosso amigo Max Vianna</a> e <a href="https://www.youtube.com/watch?v=tgiNpW9yuas" target="_blank" rel="noopener">nos parceiros da Warner Play</a>, então corre lá para assistir, hein?</p>
+<h2>Tabela atualizada do Kombat Ranking</h2>
+<h3>Ranking Nacional em 23/05/2024</h3>
+<table dir="ltr" border="1" cellspacing="0" cellpadding="0" data-sheets-root="1">
+<colgroup>
+<col width="103" />
+<col width="303" />
+<col width="138" /></colgroup>
+<tbody>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;SHD | GUI EXCEPTIONAL&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">SHD | GUI EXCEPTIONAL</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:980}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">980</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">2</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;GUSTAVO PAGE&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">GUSTAVO PAGE</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:900}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">900</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">3</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;FESOGABE&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">FESOGABE</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:730}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">730</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:4}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">4</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CMT | MURILOBDS&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">CMT | MURILOBDS</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:630}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">630</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:5}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">5</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;T7G | AGAMOTTO'S EYE&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">T7G | AGAMOTTO&#8217;S EYE</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:620}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">620</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:6}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">6</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;LGD | BRYAN LORRAN&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">LGD | BRYAN LORRAN</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:570}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">570</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:7}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">7</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;KONQUEROR&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">KONQUEROR</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:400}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">400</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:8}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">8</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;GF | SANGUE FRIO&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">GF | SANGUE FRIO</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:400}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">400</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:9}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">9</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;JUANZINSHOW&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">JUANZINSHOW</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:390}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">390</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:10}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">10</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;DIBRE BR&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">DIBRE BR</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:220}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">220</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:11}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">11</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ZEEUS&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">ZEEUS</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:100}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">100</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:12}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">12</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;LGD | RATAO SARRANTE&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">LGD | RATAO SARRANTE</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:100}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">100</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:13}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">13</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;RT | SHIRYU MK&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">RT | SHIRYU MK</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:100}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">100</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:14}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">14</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TH | DC_VOLG&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">TH | DC_VOLG</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:90}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">90</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:15}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">15</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;LTG | ALVAREZ&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">LTG | ALVAREZ</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:80}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">80</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:16}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">16</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;AXYOMAH&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">AXYOMAH</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:70}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">70</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:17}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">17</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TXT | LINXIA&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">TXT | LINXIA</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:70}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">70</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:18}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">18</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;LITTLE CHRONOS&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">LITTLE CHRONOS</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:70}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">70</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:19}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">19</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;LGD | CRISTIAN BUXIXO&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">LGD | CRISTIAN BUXIXO</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:60}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">60</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:20}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">20</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;PHT | LAVENDER RAIN&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">PHT | LAVENDER RAIN</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:50}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">50</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:21}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">21</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;DK | KILLERXINOK&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">DK | KILLERXINOK</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:50}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">50</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:22}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">22</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;XXCHAIN_SAW666XX&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">XXCHAIN_SAW666XX</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:50}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">50</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:23}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">23</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TH | BERSERKER GATTS&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">TH | BERSERKER GATTS</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:50}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">50</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:24}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">24</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;GUIPING&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">GUIPING</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:40}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">40</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:25}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">25</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ARCOVERDE&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">ARCOVERDE</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:40}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">40</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:26}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">26</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;LGD | LION VSYT&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">LGD | LION VSYT</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:40}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">40</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:27}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">27</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;METRE YOKO&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">METRE YOKO</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:40}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">40</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:28}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">28</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;LUKARILIO&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">LUKARILIO</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:30}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">30</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:29}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">29</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;BRU_CHAO&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">BRU_CHAO</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:30}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">30</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:30}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">30</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;LGD | GY4KUTAI&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">LGD | GY4KUTAI</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:30}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">30</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:31}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">31</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;IGA | DARK MICHAEL&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">IGA | DARK MICHAEL</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:30}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">30</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:32}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">32</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;DK | YVALENTIM&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">DK | YVALENTIM</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:30}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">30</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:33}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">33</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;PHT | VINYGOJO&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">PHT | VINYGOJO</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:30}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">30</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:34}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">34</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TUTANCAMON_TM&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">TUTANCAMON_TM</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:30}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">30</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:35}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">35</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;BETOTOSO&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">BETOTOSO</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:30}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">30</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:36}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">36</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;KWH | AMATERASU#1&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">KWH | AMATERASU#1</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:20}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">20</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:37}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">37</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;DB| DRAGON RED&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">DB| DRAGON RED</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:20}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">20</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:38}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">38</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;RT | OLLEB4R_&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">RT | OLLEB4R_</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:20}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">20</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:39}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">39</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;YPUPPY&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">YPUPPY</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:20}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">20</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:40}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">40</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;PEDROAYRES-VOC&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">PEDROAYRES-VOC</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:20}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">20</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:41}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">41</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;EC BLUEZZ&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">EC BLUEZZ</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:20}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">20</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:42}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">42</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;LGD| NEKKO&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">LGD| NEKKO</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:10}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">10</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:43}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">43</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;LDG| KALLELRJ97&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">LDG| KALLELRJ97</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:10}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">10</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:44}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">44</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;RPLO1212&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">RPLO1212</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:10}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">10</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">45</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;DK | DRG_SILVA&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">DK | DRG_SILVA</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:10}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">10</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:46}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">46</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;PHT | DUDUSTENI&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">PHT | DUDUSTENI</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:10}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">10</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:47}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">47</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MR FELIPE&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">MR FELIPE</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:10}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">10</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:48}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">48</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;SMK | SHUUZITO&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">SMK | SHUUZITO</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:10}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">10</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:49}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">49</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;SH4DOWKILL_WG&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">SH4DOWKILL_WG</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:10}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">10</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:50}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">50</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ALLEK&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">ALLEK</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:10}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">10</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:51}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">51</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MATTERSON_&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">MATTERSON_</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:10}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">10</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:52}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">52</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;SAZIS&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">SAZIS</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:10}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">10</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:53}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">53</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;DAVIBS55554&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">DAVIBS55554</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:10}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">10</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:54}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">54</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;WO SKATE&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">WO SKATE</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:10}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">10</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:55}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">55</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;PHT | CYBER KALANGO&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">PHT | CYBER KALANGO</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:10}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">10</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:56}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">56</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;BOROMIR512&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">BOROMIR512</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:10}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">10</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:57}" data-sheets-formula="=SE(R[0]C[-3]=&quot;&quot;;&quot;&quot;;LIN(R[0]C[-3])-3)">57</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;BFBR BRUNO&quot;}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-2];C[-6]:C[-4];2;FALSO))">BFBR BRUNO</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:10}" data-sheets-formula="=SE(R[0]C[-5]=&quot;&quot;;&quot;&quot;;PROCV(R[0]C[-3];C[-7]:C[-5];3;FALSO))">10</td>
+</tr>
+</tbody>
+</table>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="pt" dir="ltr">🏆KOMBAT RANKING: com a segunda vitória consecutiva, <a href="https://twitter.com/GuiExceptional?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@GuiExceptional</a> garantiu mais um Headset Astro A10 da <a href="https://twitter.com/LogitechGBrasil?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@LogitechGBrasil</a> e assumiu a liderança do Ranking da temporada.</p>
+<p>Lembrando que os 7 jogadores com mais pontos ao final da 7º rodada garantem vaga direto pra Rodada Final… <a href="https://t.co/M4b1OBf3wH" target="_blank">pic.twitter.com/M4b1OBf3wH</a></p>
+<p>&mdash; Max Vianna (@MaxViannaYT) <a href="https://twitter.com/MaxViannaYT/status/1793649826573263303?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">May 23, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Para quem não manja, o ranking da temporada <strong>dá vaga para o final dessa temporada</strong>, e a cada rodada os pontos ganhos são somados ao ranking geral, uma espécie de &#8220;ranking da carreira&#8221; dos jogadores de Mortal Kombat 1.</p>
+<h3>Pontuação da Rodada 2</h3>
+<div id="attachment_68566" style="width: 1930px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-68566" class="size-full wp-image-68566" src="https://flowgames.gg/wp-content/uploads/2024/05/kombat-ranking-semana-2.jpg" alt="Kombat Ranking semana 2 pontos" width="1920" height="1080" title="Mad Max" srcset="https://flowgames.gg/wp-content/uploads/2024/05/kombat-ranking-semana-2.jpg 1920w, https://flowgames.gg/wp-content/uploads/2024/05/kombat-ranking-semana-2-300x169.jpg 300w, https://flowgames.gg/wp-content/uploads/2024/05/kombat-ranking-semana-2-1044x587.jpg 1044w, https://flowgames.gg/wp-content/uploads/2024/05/kombat-ranking-semana-2-768x432.jpg 768w, https://flowgames.gg/wp-content/uploads/2024/05/kombat-ranking-semana-2-1536x864.jpg 1536w, https://flowgames.gg/wp-content/uploads/2024/05/kombat-ranking-semana-2-150x84.jpg 150w" sizes="(max-width: 1920px) 100vw, 1920px" /><p id="caption-attachment-68566" class="wp-caption-text">Imagem: Max Vianna</p></div>
+<h3>Pontuação da Rodada 1</h3>
+<div id="attachment_67985" style="width: 1930px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-67985" class="size-full wp-image-67985" src="https://flowgames.gg/wp-content/uploads/2024/05/kombat-ranking-rodada-1-resultados.jpg" alt="Kombat Ranking semana 1 resultados" width="1920" height="1080" title="Mad Max" srcset="https://flowgames.gg/wp-content/uploads/2024/05/kombat-ranking-rodada-1-resultados.jpg 1920w, https://flowgames.gg/wp-content/uploads/2024/05/kombat-ranking-rodada-1-resultados-300x169.jpg 300w, https://flowgames.gg/wp-content/uploads/2024/05/kombat-ranking-rodada-1-resultados-1044x587.jpg 1044w, https://flowgames.gg/wp-content/uploads/2024/05/kombat-ranking-rodada-1-resultados-768x432.jpg 768w, https://flowgames.gg/wp-content/uploads/2024/05/kombat-ranking-rodada-1-resultados-1536x864.jpg 1536w, https://flowgames.gg/wp-content/uploads/2024/05/kombat-ranking-rodada-1-resultados-150x84.jpg 150w" sizes="(max-width: 1920px) 100vw, 1920px" /><p id="caption-attachment-67985" class="wp-caption-text">Imagem: Max Vianna</p></div>
+<ul>
+<li><strong>[A tabela do Kombat Ranking será postada aqui e atualizada semanalmente, sempre às quintas-feiras]</strong></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://flowgames.gg/kombat-ranking-mortal-kombat-1-tabela-atualizada/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Caixas de som LG Xboom XL9 e Go XG8 são lançadas no Brasil</title>
+		<link>https://flowgames.gg/caixas-de-som-lg-xboom-xg9-e-xl8-lancadas-no-brasil/</link>
+					<comments>https://flowgames.gg/caixas-de-som-lg-xboom-xg9-e-xl8-lancadas-no-brasil/#respond</comments>
+		
+		<dc:creator><![CDATA[Alvaro Neto]]></dc:creator>
+		<pubDate>Thu, 23 May 2024 15:59:47 +0000</pubDate>
+				<category><![CDATA[Tecnologia]]></category>
+		<category><![CDATA[caixa de som]]></category>
+		<category><![CDATA[LG]]></category>
+		<category><![CDATA[LG Xbom XL9]]></category>
+		<category><![CDATA[LG Xboom]]></category>
+		<category><![CDATA[LG Xboom Go XG8]]></category>
+		<category><![CDATA[speaker]]></category>
+		<category><![CDATA[speaker BT]]></category>
+		<category><![CDATA[Xboom]]></category>
+		<guid isPermaLink="false">https://flowgames.gg/?p=68638</guid>
+
+					<description><![CDATA[A linha LG Xboom foi ampliada com o lançamento de duas caixas de som potentes. Confira os detalhes!]]></description>
+										<content:encoded><![CDATA[<p>Em evento realizado em São Paulo ontem (22), a <a href="https://flowgames.gg/smart-lg-myview-monitor-inteligente-lancado-no-brasil/" target="_blank" rel="noopener">LG</a> anunciou algumas novidades que prometem animar festas e ditar o ritmo. Essas novidades, claro, se referem a novas <a href="https://flowgames.gg/sand-land-trailer-ao-som-darude-sandstorm/" target="_blank" rel="noopener">caixas de som</a> da linha LG Xboom.</p>
+<p>A LG Xboom XL9 é uma caixa de som mais destinada para ambientes abertos e que traz um som massivo com graves potentes e agudos nítidos. O produto tem uma potência de nada menos que 1.000 W RMS com 2 woofers de grande amplitude de 8 polegadas e 2 tweeters de 2 polegadas.</p>
+<div id="attachment_68641" style="width: 1240px" class="wp-caption alignnone"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-68641" class="size-full wp-image-68641" src="https://flowgames.gg/wp-content/uploads/2024/05/LG-Xboom-XL9.jpg" alt="LG Xboom XL9" width="1230" height="720" title="Mad Max" srcset="https://flowgames.gg/wp-content/uploads/2024/05/LG-Xboom-XL9.jpg 1230w, https://flowgames.gg/wp-content/uploads/2024/05/LG-Xboom-XL9-300x176.jpg 300w, https://flowgames.gg/wp-content/uploads/2024/05/LG-Xboom-XL9-1044x611.jpg 1044w, https://flowgames.gg/wp-content/uploads/2024/05/LG-Xboom-XL9-768x450.jpg 768w, https://flowgames.gg/wp-content/uploads/2024/05/LG-Xboom-XL9-150x88.jpg 150w" sizes="(max-width: 1230px) 100vw, 1230px" /><p id="caption-attachment-68641" class="wp-caption-text">Imagem: Alvaro Neto/Flow Games</p></div>
+<p>Outra grande novidade no modelo, comparado com o XL8, fica no poder de personalização do seu painel de Pixel LED. Além de poderem criar suas próprias animações desenhando em um app no celular, o próprio produto identifica se está na vertical ou horizontal para exibir a animação com a orientação correta.</p>
+<p>O modelo novo ainda mantém a sua alça e rodas para ser transportada com facilidade. E seu acabamento conta com a certificação IPX4, que faz a caixa de som resistente a água, tornando-a uma boa opção para ser utilizada até mesmo próxima a piscinas.</p>
+<p>A LG Xboom XL9 já se encontra a venda com o preço sugerido de R$ 5.499 no <a href="https://www.lg.com/br/audio/xboom/xl9t/" target="_blank" rel="noopener">site oficial da LG</a>.</p>
+<h2>LG Xboom Go XG8 é focada na portabilidade</h2>
+<p>Para aqueles que procuram algo ainda mais fácil de transportar para curtir uma boa música, a LG apresentou a Xboom Go XG8. A speaker Bluetooth conta com LG Xbosaídas de 60 W + 60 W para oferecer graves mais reforçados.</p>
+<p>Assim como a XG7, a nova speaker da LG conta com um sistema de iluminação em suas laterais para acompanhar o ritmo da música. Entretanto, a seleção está expandida no modelo deste ano com 16 milhões de cores.</p>
+<div id="attachment_68642" style="width: 1290px" class="wp-caption alignnone"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-68642" class="size-full wp-image-68642" src="https://flowgames.gg/wp-content/uploads/2024/05/LG-Xboom-XG8.jpg" alt="LG Xboom XG8" width="1280" height="720" title="Mad Max" srcset="https://flowgames.gg/wp-content/uploads/2024/05/LG-Xboom-XG8.jpg 1280w, https://flowgames.gg/wp-content/uploads/2024/05/LG-Xboom-XG8-300x169.jpg 300w, https://flowgames.gg/wp-content/uploads/2024/05/LG-Xboom-XG8-1044x587.jpg 1044w, https://flowgames.gg/wp-content/uploads/2024/05/LG-Xboom-XG8-768x432.jpg 768w, https://flowgames.gg/wp-content/uploads/2024/05/LG-Xboom-XG8-150x84.jpg 150w" sizes="(max-width: 1280px) 100vw, 1280px" /><p id="caption-attachment-68642" class="wp-caption-text">Imagem: Alvaro Neto/Flow Games</p></div>
+<p>Uma das novidades mais interessantes da LG Xboom Go XG8 fica por sua alça removível de tecido, que pode ser facilmente ajustada, por exemplo, para ficar em seu ombro de forma confortável.</p>
+<p>O modelo ainda conta com a certificação IP67, que a torna resistente a água e poeira, e uma autonomia de até 15h. Não somente isso, a speaker ainda traz uma certificação com resistência militar, ou seja, ela promete durar bastante e ser ideal para qualquer ambiente.</p>
+<p>A LG Xboom Go XG8 já se encontra a venda com o preço sugerido de R$ 1.683,16 no <a href="https://www.lg.com/br/audio/xboom-go/xg8t/" target="_blank" rel="noopener">site oficial da LG</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://flowgames.gg/caixas-de-som-lg-xboom-xg9-e-xl8-lancadas-no-brasil/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Epic Games Store libera SIMULADOR ACLAMADO totalmente grátis</title>
+		<link>https://flowgames.gg/epic-games-store-jogo-gratis-23-05-2024-simulador/</link>
+					<comments>https://flowgames.gg/epic-games-store-jogo-gratis-23-05-2024-simulador/#respond</comments>
+		
+		<dc:creator><![CDATA[Thomas Schulze]]></dc:creator>
+		<pubDate>Thu, 23 May 2024 15:12:16 +0000</pubDate>
+				<category><![CDATA[Games]]></category>
+		<category><![CDATA[download]]></category>
+		<category><![CDATA[epic]]></category>
+		<category><![CDATA[epic games store]]></category>
+		<category><![CDATA[Farming Simulator]]></category>
+		<category><![CDATA[Farming Simulator 22]]></category>
+		<category><![CDATA[grátis]]></category>
+		<category><![CDATA[gratuito]]></category>
+		<category><![CDATA[pc]]></category>
+		<category><![CDATA[promoção]]></category>
+		<guid isPermaLink="false">https://flowgames.gg/?p=68617</guid>
+
+					<description><![CDATA[Sensação na internet, simulador popular é adicionado sem custos no catálogo da Epic Games Store; confira!]]></description>
+										<content:encoded><![CDATA[<p>Toda quinta-feira <a href="https://flowgames.gg/quais-sao-proximos-jogos-gratis-da-epic-games-store/">a Epic Games Store libera um novo jogo com download grátis</a> pontualmente <strong>ao meio dia no horário de Brasília</strong>. Hoje (23) não foi diferente, e você já pode fazer o resgate dele para colocá-lo em sua biblioteca para sempre.</p>
+<p>Só fique esperto porque <strong>é preciso fazer o resgate até as 11:59h do dia 30 de maio</strong>, quando um novo jogo será colocado no período promocional grátis em seu lugar. Conheça a novidade a seguir.</p>
+<h2>Qual é o novo jogo grátis da Epic Games Store?</h2>
+<div id="attachment_68365" style="width: 1290px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-68365" class="size-full wp-image-68365" src="https://flowgames.gg/wp-content/uploads/2024/05/Farming-Simulator-22-jogo-gratis-da-Epic-Games-Store.jpg" alt="Farming Simulator 22 - jogo grátis da Epic Games Store" width="1280" height="720" title="Mad Max" srcset="https://flowgames.gg/wp-content/uploads/2024/05/Farming-Simulator-22-jogo-gratis-da-Epic-Games-Store.jpg 1280w, https://flowgames.gg/wp-content/uploads/2024/05/Farming-Simulator-22-jogo-gratis-da-Epic-Games-Store-300x169.jpg 300w, https://flowgames.gg/wp-content/uploads/2024/05/Farming-Simulator-22-jogo-gratis-da-Epic-Games-Store-1044x587.jpg 1044w, https://flowgames.gg/wp-content/uploads/2024/05/Farming-Simulator-22-jogo-gratis-da-Epic-Games-Store-768x432.jpg 768w, https://flowgames.gg/wp-content/uploads/2024/05/Farming-Simulator-22-jogo-gratis-da-Epic-Games-Store-150x84.jpg 150w" sizes="(max-width: 1280px) 100vw, 1280px" /><p id="caption-attachment-68365" class="wp-caption-text">Imagem: Giants Software</p></div>
+<p>Confirmando os vazamentos, <strong>o jogo misterioso da semana foi Farming Simulator 22</strong>, o aclamado simulador que é referência no gênero e possui uma verdadeira legião de fãs sedentos por passar umas horinhas relaxando com o trabalho da fazenda.</p>
+<p>Novamente, a Epic <a href="https://store.epicgames.com/pt-BR/" target="_blank" rel="noopener">faz mistério em seu site</a> e aplicativo, e o próximo game gratuito também não foi revelado, sendo rotulado apenas como &#8220;jogo misterioso&#8221;.</p>
+<p>O que será que vem por aí, e <strong>o que você achou da adição desta semana?</strong> Comente a seguir!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://flowgames.gg/epic-games-store-jogo-gratis-23-05-2024-simulador/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

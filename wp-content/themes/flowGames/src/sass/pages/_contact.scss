@@ -1,0 +1,487 @@
+/*======================================
+  Contact
+======================================*/
+
+.contact {
+  input:-webkit-autofill,
+  input:-webkit-autofill:hover,
+  input:-webkit-autofill:focus,
+  textarea:-webkit-autofill,
+  textarea:-webkit-autofill:hover,
+  textarea:-webkit-autofill:focus {
+    -webkit-box-shadow: 0 0 0px 1000px #FFF inset;
+    transition: background-color 5000s ease-in-out 0s;
+  }
+  .box-header {
+    width: 100%;
+    background: $color-purple url(../img/box-header-contact.png) bottom center no-repeat;
+    padding: 175px 0 98px 0;
+    h1 {
+      font-family: $font-alt;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 140%;
+      color: $color-yellow;
+      text-align: center;
+      text-transform: uppercase;
+      padding: 0 0 7px 0;
+    }
+    h2 {
+      font-family: $font-alt;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 48px;
+      line-height: 120%;
+      text-align: center;
+      text-transform: uppercase;
+      color: $color-white;
+      padding: 0 0 29px 0;
+    }
+    p {
+      font-family: $font-alt;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 140%;
+      text-align: center;
+      text-transform: uppercase;
+      color: $color-white;
+    }
+  }
+  .grid {
+    @include columns( $quant: 1fr 1fr, $gutter: 127px, $align: start, $template: '');
+    overflow: hidden;
+    padding: 111px 0 293px 0;
+    .item {
+      &.space {
+        padding: 103px 0 0 91px;
+      }
+      h3 {
+        font-family: $font-alt;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 140%;
+        text-transform: uppercase;
+        color: #131313;
+      }
+      h4 {
+        font-family: $font-alt;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 140%;
+        text-transform: uppercase;
+        color: #131313;
+        padding: 0 0 9px 0;
+        &.small {
+          padding-bottom: 9px;
+        }
+      }
+      .border {
+        border-bottom: 1px solid #E0E0E0;
+        padding: 0 0 42px 0;
+        margin: 0 0 40px 0;
+      }
+      p {
+        font-family: $font-main;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 160%;
+        color: #393939;
+        a {
+          font-weight: bold;
+        }
+      }
+      .form {
+        padding: 44px 0 0 0;
+        label {
+          display: block;
+          width: 100%;
+          position: relative;
+          margin: 0 0 16px 0;
+          .label {
+            @include animate($time: 0.3s);
+            position: absolute;
+            top: 8px;
+            left: 16px;
+            font-family: $font-alt;
+            font-style: normal;
+            font-weight: 400;
+            font-size: 12px;
+            line-height: 140%;
+            color: #828282;
+            text-transform: uppercase;
+            z-index: 1;
+          }
+          input {
+            @include animate($time: 0.3s);
+            width: 100%;
+            height: 56px;
+            border: 1px solid #E8E8E8;
+            outline: none;
+            background: $color-white;
+            font-family: $font-main;
+            font-style: normal;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 140%;
+            // text-transform: uppercase;
+            color: #131313;
+            padding: 12px 15px 0;
+            background-clip: content-box;
+            &:focus {
+              border: 1px solid $color-purple;
+            }
+          }
+          textarea {
+            @include animate($time: 0.3s);
+            width: 100%;
+            height: 151px;
+            resize: none;
+            border: 1px solid #E8E8E8;
+            outline: none;
+            background: transparent;
+            font-family: $font-main;
+            font-style: normal;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 140%;
+            // text-transform: uppercase;
+            color: #131313;
+            padding: 20px 15px;
+            &:focus {
+              border: 1px solid $color-purple;
+            }
+          }
+          &.act {
+            .label {
+              color: $color-purple;
+            }
+          }
+        }
+        .subgrid {
+          @include columns( $quant: 1fr 158px, $gutter: 10px, $align: center, $template: 'text button');
+          padding: 9px 0 0 2px;
+          .text {
+            grid-area: text;
+            p {
+              font-family: $font-main;
+              font-style: normal;
+              font-weight: 400;
+              font-size: 12px;
+              line-height: 160%;
+              color: #393939;
+            }
+          }
+          .button {
+            grid-area: button;
+            position: relative;
+            input {
+              width: 100%;
+              height: 44px;
+              background-color: $color-purple;
+              border: none;
+              outline: none;
+              cursor: pointer;
+              font-family: $font-alt;
+              font-style: normal;
+              font-weight: 400;
+              font-size: 14px;
+              line-height: 140%;
+              text-transform: uppercase;
+              color: $color-yellow;
+            }
+            .wpcf7-spinner {
+              position: absolute;
+              bottom: 0;
+              right: -26px;
+              margin: 0;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@include breakpoint2($min:sm, $max:lg) {
+  .contact {
+    input:-webkit-autofill,
+    input:-webkit-autofill:hover,
+    input:-webkit-autofill:focus,
+    textarea:-webkit-autofill,
+    textarea:-webkit-autofill:hover,
+    textarea:-webkit-autofill:focus {
+      -webkit-box-shadow: 0 0 0px 1000px #FFF inset;
+      transition: background-color 5000s ease-in-out 0s;
+    }
+    .box-header {
+      padding: get-vw-lg(175px) 0 get-vw-lg(98px) 0;
+      h1 {
+        font-size: get-vw-lg(16px);
+        padding: 0 0 get-vw-lg(7px) 0;
+      }
+      h2 {
+        font-size: get-vw-lg(48px);
+        padding: 0 0 get-vw-lg(29px) 0;
+      }
+      p {
+        font-size: get-vw-lg(18px);
+      }
+    }
+    .grid {
+      @include columns( $quant: 1fr 1fr, $gutter: get-vw-lg(127px), $align: start, $template: '');
+      padding: get-vw-lg(111px) 0 get-vw-lg(293px) 0;
+      .item {
+        &.space {
+          padding: get-vw-lg(103px) 0 0 get-vw-lg(91px);
+        }
+        h3 {
+          font-size: get-vw-lg(24px);
+        }
+        h4 {
+          font-size: get-vw-lg(18px);
+          padding: 0 0 get-vw-lg(9px) 0;
+          &.small {
+            padding-bottom: get-vw-lg(9px);
+          }
+        }
+        .border {
+          padding: 0 0 get-vw-lg(42px) 0;
+          margin: 0 0 get-vw-lg(40px) 0;
+        }
+        p {
+          font-size: get-vw-lg(16px);
+        }
+        .form {
+          padding: get-vw-lg(44px) 0 0 0;
+          label {
+            margin: 0 0 get-vw-lg(16px) 0;
+            .label {
+              top: get-vw-lg(8px);
+              left: get-vw-lg(16px);
+              font-size: get-vw-lg(12px);
+            }
+            input {
+              height: get-vw-lg(56px);
+              font-size: get-vw-lg(14px);
+              padding: get-vw-lg(12px) get-vw-lg(15px) 0;
+            }
+            textarea {
+              height: get-vw-lg(151px);
+              font-size: get-vw-lg(14px);
+              padding: get-vw-lg(20px) get-vw-lg(15px);
+            }
+          }
+          .subgrid {
+            @include columns( $quant: 1fr get-vw-lg(158px), $gutter: get-vw-lg(10px), $align: center, $template: 'text button');
+            padding: get-vw-lg(9px) 0 0 get-vw-lg(2px);
+            .text {
+              p {
+                font-size: get-vw-lg(12px);
+              }
+            }
+            .button {
+              input {
+                height: get-vw-lg(44px);
+                font-size: get-vw-lg(14px);
+              }
+              .wpcf7-spinner {
+                right: get-vw-lg(-26px);
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@include breakpoint2($min:xs, $max:sm) {
+  .contact {
+    input:-webkit-autofill,
+    input:-webkit-autofill:hover,
+    input:-webkit-autofill:focus,
+    textarea:-webkit-autofill,
+    textarea:-webkit-autofill:hover,
+    textarea:-webkit-autofill:focus {
+      -webkit-box-shadow: 0 0 0px 1000px #FFF inset;
+      transition: background-color 5000s ease-in-out 0s;
+    }
+    .box-header {
+      padding: get-vw-sm(175px) 0 get-vw-sm(98px) 0;
+      h1 {
+        font-size: get-vw-sm(16px);
+        padding: 0 0 get-vw-sm(7px) 0;
+      }
+      h2 {
+        font-size: get-vw-sm(48px);
+        padding: 0 0 get-vw-sm(29px) 0;
+      }
+      p {
+        font-size: get-vw-sm(18px);
+      }
+    }
+    .grid {
+      @include columns( $quant: 1fr, $gutter: 0, $align: start, $template: '');
+      padding: get-vw-sm(111px) 0 get-vw-sm(293px) 0;
+      .item {
+        &.space {
+          padding: get-vw-sm(103px) 0 0 0;
+        }
+        h3 {
+          font-size: get-vw-sm(24px);
+        }
+        h4 {
+          font-size: get-vw-sm(18px);
+          padding: 0 0 get-vw-sm(9px) 0;
+          &.small {
+            padding-bottom: get-vw-sm(9px);
+          }
+        }
+        .border {
+          padding: 0 0 get-vw-sm(42px) 0;
+          margin: 0 0 get-vw-sm(40px) 0;
+        }
+        p {
+          font-size: get-vw-sm(16px);
+        }
+        .form {
+          padding: get-vw-sm(44px) 0 0 0;
+          label {
+            margin: 0 0 get-vw-sm(16px) 0;
+            .label {
+              top: get-vw-sm(8px);
+              left: get-vw-sm(16px);
+              font-size: get-vw-sm(12px);
+            }
+            input {
+              height: get-vw-sm(56px);
+              font-size: get-vw-sm(14px);
+              padding: get-vw-sm(12px) get-vw-sm(15px) 0;
+            }
+            textarea {
+              height: get-vw-sm(151px);
+              font-size: get-vw-sm(14px);
+              padding: get-vw-sm(20px) get-vw-sm(15px);
+            }
+          }
+          .subgrid {
+            @include columns( $quant: 1fr get-vw-sm(158px), $gutter: get-vw-sm(10px), $align: center, $template: 'text button');
+            padding: get-vw-sm(9px) 0 0 get-vw-sm(2px);
+            .text {
+              p {
+                font-size: get-vw-sm(12px);
+              }
+            }
+            .button {
+              input {
+                height: get-vw-sm(44px);
+                font-size: get-vw-sm(14px);
+              }
+              .wpcf7-spinner {
+                right: get-vw-sm(-26px);
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@include breakpoint2($min:'', $max:xs) {
+  .contact {
+    input:-webkit-autofill,
+    input:-webkit-autofill:hover,
+    input:-webkit-autofill:focus,
+    textarea:-webkit-autofill,
+    textarea:-webkit-autofill:hover,
+    textarea:-webkit-autofill:focus {
+      -webkit-box-shadow: 0 0 0px 1000px #FFF inset;
+      transition: background-color 5000s ease-in-out 0s;
+    }
+    .box-header {
+      padding: get-vw-xs(175px) 0 get-vw-xs(98px) 0;
+      h1 {
+        font-size: get-vw-xs(16px);
+        padding: 0 0 get-vw-xs(7px) 0;
+      }
+      h2 {
+        font-size: get-vw-xs(48px);
+        padding: 0 0 get-vw-xs(29px) 0;
+      }
+      p {
+        font-size: get-vw-xs(18px);
+      }
+    }
+    .grid {
+      @include columns( $quant: 1fr, $gutter: 0, $align: start, $template: '');
+      padding: get-vw-xs(111px) 0 get-vw-xs(293px) 0;
+      .item {
+        &.space {
+          padding: get-vw-xs(103px) 0 0 0;
+        }
+        h3 {
+          font-size: get-vw-xs(24px);
+        }
+        h4 {
+          font-size: get-vw-xs(18px);
+          padding: 0 0 get-vw-xs(9px) 0;
+          &.xsall {
+            padding-bottom: get-vw-xs(9px);
+          }
+        }
+        .border {
+          padding: 0 0 get-vw-xs(42px) 0;
+          margin: 0 0 get-vw-xs(40px) 0;
+        }
+        p {
+          font-size: get-vw-xs(16px);
+        }
+        .form {
+          padding: get-vw-xs(44px) 0 0 0;
+          label {
+            margin: 0 0 get-vw-xs(16px) 0;
+            .label {
+              top: get-vw-xs(8px);
+              left: get-vw-xs(16px);
+              font-size: get-vw-xs(12px);
+            }
+            input {
+              height: get-vw-xs(56px);
+              font-size: get-vw-xs(14px);
+              padding: get-vw-xs(12px) get-vw-xs(15px) 0;
+            }
+            textarea {
+              height: get-vw-xs(151px);
+              font-size: get-vw-xs(14px);
+              padding: get-vw-xs(20px) get-vw-xs(15px);
+            }
+          }
+          .subgrid {
+            @include columns( $quant: 1fr get-vw-xs(158px), $gutter: get-vw-xs(10px), $align: center, $template: 'text button');
+            padding: get-vw-xs(9px) 0 0 get-vw-xs(2px);
+            .text {
+              p {
+                font-size: get-vw-xs(12px);
+              }
+            }
+            .button {
+              input {
+                height: get-vw-xs(44px);
+                font-size: get-vw-xs(14px);
+              }
+              .wpcf7-spinner {
+                right: get-vw-xs(-26px);
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

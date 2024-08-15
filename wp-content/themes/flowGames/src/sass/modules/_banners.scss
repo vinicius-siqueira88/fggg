@@ -1,0 +1,41 @@
+/*======================================
+  Banners
+======================================*/
+
+.banner {
+  text-align: center;
+  padding: 54px 0 58px 0;
+  img {
+    max-width: 100%;
+  }
+}
+
+@include breakpoint2($min:sm, $max:lg) {
+  .banner {
+    padding: get-vw-lg(54px) 0 get-vw-lg(58px) 0;
+    img {
+      width: 100%;
+      height: 100%;
+    }
+  }
+}
+
+@include breakpoint2($min:xs, $max:sm) {
+  .banner {
+    padding: get-vw-sm(54px) 0 get-vw-sm(58px) 0;
+    img {
+      width: 100%;
+      height: 100%;
+    }
+  }
+}
+
+@include breakpoint2($min:'', $max:xs) {
+  .banner {
+    padding: get-vw-xs(54px) 0 get-vw-xs(58px) 0;
+    img {
+      width: 100%;
+      height: 100%;
+    }
+  }
+}
